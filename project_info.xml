@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ProjectSettings>
-  <Name value="Kadabra Percussion"/>
+  <Name value="Kadabra Acoustic Drums"/>
   <Version value="1.0.0"/>
   <Description value=""/>
-  <BundleIdentifier value="com.IMI.KadabraPercussion"/>
-  <PluginCode value="Kprc"/>
+  <BundleIdentifier value="com.IMI.KadabraAcousticDrums"/>
+  <PluginCode value="Kadr"/>
   <EmbedAudioFiles value="Yes"/>
   <EmbedImageFiles value="Yes"/>
   <SupportFullDynamicsHLAC value="1"/>
