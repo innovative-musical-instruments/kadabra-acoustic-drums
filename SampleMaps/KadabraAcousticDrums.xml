@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<samplemap CrossfadeGamma="1.0" ID="KadabraAcousticDrums" SaveMode="2" RRGroupAmount="1.0"
+<samplemap CrossfadeGamma="1.0" ID="KadabraAcousticDrums" SaveMode="1" RRGroupAmount="1.0"
            MicPositions=";">
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel1.wav" Root="10"
           LoKey="10" HiKey="10" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="8.114660263061523" Duplicate="1" SampleEnd="140558"
+          NormalizedPeak="8.114660263061523" Duplicate="0" SampleEnd="140558"
           MonolithOffset="0" MonolithLength="143360" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel1.wav" Root="11"
           LoKey="11" HiKey="11" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -12,7 +12,7 @@
           MonolithOffset="143360" MonolithLength="143360" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel2.wav" Root="10"
           LoKey="10" HiKey="10" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="5.114250183105469" Duplicate="1" SampleEnd="197314"
+          NormalizedPeak="5.114250183105469" Duplicate="0" SampleEnd="197314"
           MonolithOffset="286720" MonolithLength="200704" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel2.wav" Root="11"
           LoKey="11" HiKey="11" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -20,7 +20,7 @@
           MonolithOffset="487424" MonolithLength="200704" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel3.wav" Root="10"
           LoKey="10" HiKey="10" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.894611358642578" Duplicate="1" SampleEnd="243299"
+          NormalizedPeak="2.894611358642578" Duplicate="0" SampleEnd="243299"
           MonolithOffset="688128" MonolithLength="245760" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel3.wav" Root="11"
           LoKey="11" HiKey="11" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -28,7 +28,7 @@
           MonolithOffset="933888" MonolithLength="245760" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel4.wav" Root="10"
           LoKey="10" HiKey="10" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.406860589981079" Duplicate="1" SampleEnd="111008"
+          NormalizedPeak="2.406860589981079" Duplicate="0" SampleEnd="111008"
           MonolithOffset="1179648" MonolithLength="114688" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel4.wav" Root="11"
           LoKey="11" HiKey="11" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -36,7 +36,7 @@
           MonolithOffset="1294336" MonolithLength="114688" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel1R2.wav" Root="2"
           LoKey="2" HiKey="2" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="15.47803401947021" Duplicate="1" SampleEnd="157934"
+          NormalizedPeak="15.47803401947021" Duplicate="0" SampleEnd="157934"
           MonolithOffset="1409024" MonolithLength="159744" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel1R2.wav" Root="3"
           LoKey="3" HiKey="3" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -44,7 +44,7 @@
           MonolithOffset="1568768" MonolithLength="159744" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel2R2.wav" Root="2"
           LoKey="2" HiKey="2" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="7.177875518798828" Duplicate="1" SampleEnd="162699"
+          NormalizedPeak="7.177875518798828" Duplicate="0" SampleEnd="162699"
           MonolithOffset="1728512" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel2R2.wav" Root="3"
           LoKey="3" HiKey="3" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -52,7 +52,7 @@
           MonolithOffset="1892352" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel3R2.wav" Root="2"
           LoKey="2" HiKey="2" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.696221113204956" Duplicate="1" SampleEnd="193928"
+          NormalizedPeak="3.696221113204956" Duplicate="0" SampleEnd="193928"
           MonolithOffset="2056192" MonolithLength="196608" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel3R2.wav" Root="3"
           LoKey="3" HiKey="3" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -60,7 +60,7 @@
           MonolithOffset="2252800" MonolithLength="196608" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel4R2.wav" Root="2"
           LoKey="2" HiKey="2" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.416089057922363" Duplicate="1" SampleEnd="201668"
+          NormalizedPeak="2.416089057922363" Duplicate="0" SampleEnd="201668"
           MonolithOffset="2449408" MonolithLength="204800" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel4R2.wav" Root="3"
           LoKey="3" HiKey="3" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -68,23 +68,23 @@
           MonolithOffset="2654208" MonolithLength="204800" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel1R1.wav" Root="4"
           LoKey="4" HiKey="4" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="16.89129447937012" Duplicate="1" SampleEnd="164354"
+          NormalizedPeak="16.89129447937012" Duplicate="0" SampleEnd="164354"
           MonolithOffset="2859008" MonolithLength="167936" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel2R1.wav" Root="4"
           LoKey="4" HiKey="4" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="9.292966842651367" Duplicate="1" SampleEnd="178061"
+          NormalizedPeak="9.292966842651367" Duplicate="0" SampleEnd="178061"
           MonolithOffset="3026944" MonolithLength="180224" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel3R1.wav" Root="4"
           LoKey="4" HiKey="4" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="5.261239528656006" Duplicate="1" SampleEnd="198815"
+          NormalizedPeak="5.261239528656006" Duplicate="0" SampleEnd="198815"
           MonolithOffset="3207168" MonolithLength="200704" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel4R1.wav" Root="4"
           LoKey="4" HiKey="4" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.145229339599609" Duplicate="1" SampleEnd="227758"
+          NormalizedPeak="3.145229339599609" Duplicate="0" SampleEnd="227758"
           MonolithOffset="3407872" MonolithLength="229376" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel1R2.wav" Root="5"
           LoKey="5" HiKey="5" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="20.49538612365723" Duplicate="1" SampleEnd="121626"
+          NormalizedPeak="20.49538612365723" Duplicate="0" SampleEnd="121626"
           MonolithOffset="3637248" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel1R2.wav" Root="6"
           LoKey="6" HiKey="6" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -92,7 +92,7 @@
           MonolithOffset="3760128" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel2R2.wav" Root="5"
           LoKey="5" HiKey="5" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="7.057290554046631" Duplicate="1" SampleEnd="172269"
+          NormalizedPeak="7.057290554046631" Duplicate="0" SampleEnd="172269"
           MonolithOffset="3883008" MonolithLength="176128" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel2R2.wav" Root="6"
           LoKey="6" HiKey="6" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -100,7 +100,7 @@
           MonolithOffset="4059136" MonolithLength="176128" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel3R2.wav" Root="5"
           LoKey="5" HiKey="5" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="5.379576206207275" Duplicate="1" SampleEnd="162590"
+          NormalizedPeak="5.379576206207275" Duplicate="0" SampleEnd="162590"
           MonolithOffset="4235264" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel3R2.wav" Root="6"
           LoKey="6" HiKey="6" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -108,7 +108,7 @@
           MonolithOffset="4399104" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel4R2.wav" Root="5"
           LoKey="5" HiKey="5" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.002015590667725" Duplicate="1" SampleEnd="237389"
+          NormalizedPeak="3.002015590667725" Duplicate="0" SampleEnd="237389"
           MonolithOffset="4562944" MonolithLength="237568" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick2Vel4R2.wav" Root="6"
           LoKey="6" HiKey="6" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -116,7 +116,7 @@
           MonolithOffset="4800512" MonolithLength="237568" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel1R1.wav" Root="7"
           LoKey="7" HiKey="7" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="15.35473251342773" Duplicate="1" SampleEnd="151083"
+          NormalizedPeak="15.35473251342773" Duplicate="0" SampleEnd="151083"
           MonolithOffset="5038080" MonolithLength="151552" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel1R1.wav" Root="8"
           LoKey="8" HiKey="8" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -124,7 +124,7 @@
           MonolithOffset="5189632" MonolithLength="151552" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel2R1.wav" Root="7"
           LoKey="7" HiKey="7" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="7.415026187896729" Duplicate="1" SampleEnd="160857"
+          NormalizedPeak="7.415026187896729" Duplicate="0" SampleEnd="160857"
           MonolithOffset="5341184" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel2R1.wav" Root="8"
           LoKey="8" HiKey="8" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -132,7 +132,7 @@
           MonolithOffset="5505024" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel3R1.wav" Root="7"
           LoKey="7" HiKey="7" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.603145122528076" Duplicate="1" SampleEnd="168404"
+          NormalizedPeak="3.603145122528076" Duplicate="0" SampleEnd="168404"
           MonolithOffset="5668864" MonolithLength="172032" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel3R1.wav" Root="8"
           LoKey="8" HiKey="8" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -140,7 +140,7 @@
           MonolithOffset="5840896" MonolithLength="172032" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel4R1.wav" Root="7"
           LoKey="7" HiKey="7" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.047553539276123" Duplicate="1" SampleEnd="141721"
+          NormalizedPeak="2.047553539276123" Duplicate="0" SampleEnd="141721"
           MonolithOffset="6012928" MonolithLength="143360" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel4R1.wav" Root="8"
           LoKey="8" HiKey="8" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -148,55 +148,55 @@
           MonolithOffset="6156288" MonolithLength="143360" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel1R2.wav" Root="9"
           LoKey="9" HiKey="9" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="27.9090747833252" Duplicate="1" SampleEnd="150418"
+          NormalizedPeak="27.9090747833252" Duplicate="0" SampleEnd="150418"
           MonolithOffset="6299648" MonolithLength="151552" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel2R2.wav" Root="9"
           LoKey="9" HiKey="9" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="6.23065185546875" Duplicate="1" SampleEnd="168667"
+          NormalizedPeak="6.23065185546875" Duplicate="0" SampleEnd="168667"
           MonolithOffset="6451200" MonolithLength="172032" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel3R2.wav" Root="9"
           LoKey="9" HiKey="9" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="4.201974868774414" Duplicate="1" SampleEnd="171938"
+          NormalizedPeak="4.201974868774414" Duplicate="0" SampleEnd="171938"
           MonolithOffset="6623232" MonolithLength="172032" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick3Vel4R2.wav" Root="9"
           LoKey="9" HiKey="9" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.198965072631836" Duplicate="1" SampleEnd="97516"
+          NormalizedPeak="3.198965072631836" Duplicate="0" SampleEnd="97516"
           MonolithOffset="6795264" MonolithLength="98304" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick4Vel1R1.wav" Root="0"
           LoKey="0" HiKey="0" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="19.78459548950195" Duplicate="1" SampleEnd="111746"
+          NormalizedPeak="19.78459548950195" Duplicate="0" SampleEnd="111746"
           MonolithOffset="6893568" MonolithLength="114688" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick4Vel2R1.wav" Root="0"
           LoKey="0" HiKey="0" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="8.808333396911621" Duplicate="1" SampleEnd="127074"
+          NormalizedPeak="8.808333396911621" Duplicate="0" SampleEnd="127074"
           MonolithOffset="7008256" MonolithLength="131072" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick4Vel3R1.wav" Root="0"
           LoKey="0" HiKey="0" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="4.380614757537842" Duplicate="1" SampleEnd="80699"
+          NormalizedPeak="4.380614757537842" Duplicate="0" SampleEnd="80699"
           MonolithOffset="7139328" MonolithLength="81920" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick4Vel4R1.wav" Root="0"
           LoKey="0" HiKey="0" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.566136837005615" Duplicate="1" SampleEnd="57570"
+          NormalizedPeak="2.566136837005615" Duplicate="0" SampleEnd="57570"
           MonolithOffset="7221248" MonolithLength="61440" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick4Vel1R2.wav" Root="1"
           LoKey="1" HiKey="1" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="26.90644264221191" Duplicate="1" SampleEnd="107995"
+          NormalizedPeak="26.90644264221191" Duplicate="0" SampleEnd="107995"
           MonolithOffset="7282688" MonolithLength="110592" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick4Vel2R2.wav" Root="1"
           LoKey="1" HiKey="1" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="6.468021869659424" Duplicate="1" SampleEnd="101854"
+          NormalizedPeak="6.468021869659424" Duplicate="0" SampleEnd="101854"
           MonolithOffset="7393280" MonolithLength="102400" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick4Vel3R2.wav" Root="1"
           LoKey="1" HiKey="1" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="4.392359256744385" Duplicate="1" SampleEnd="76744"
+          NormalizedPeak="4.392359256744385" Duplicate="0" SampleEnd="76744"
           MonolithOffset="7495680" MonolithLength="77824" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick4Vel4R2.wav" Root="1"
           LoKey="1" HiKey="1" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.056623220443726" Duplicate="1" SampleEnd="81853"
+          NormalizedPeak="3.056623220443726" Duplicate="0" SampleEnd="81853"
           MonolithOffset="7573504" MonolithLength="81920" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM1Vel1R1.wav" Root="12"
           LoKey="12" HiKey="12" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="140.5225372314453" Duplicate="1" SampleEnd="102010"
+          NormalizedPeak="140.5225372314453" Duplicate="0" SampleEnd="102010"
           MonolithOffset="7655424" MonolithLength="102400" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM1Vel1R1.wav" Root="13"
           LoKey="13" HiKey="13" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -212,7 +212,7 @@
           MonolithOffset="7962624" MonolithLength="102400" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM1Vel2R1.wav" Root="12"
           LoKey="12" HiKey="12" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="94.52303314208984" Duplicate="1" SampleEnd="80057"
+          NormalizedPeak="94.52303314208984" Duplicate="0" SampleEnd="80057"
           MonolithOffset="8065024" MonolithLength="81920" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM1Vel2R1.wav" Root="13"
           LoKey="13" HiKey="13" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -228,7 +228,7 @@
           MonolithOffset="8310784" MonolithLength="81920" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM1Vel3R1.wav" Root="12"
           LoKey="12" HiKey="12" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="55.79438781738281" Duplicate="1" SampleEnd="70452"
+          NormalizedPeak="55.79438781738281" Duplicate="0" SampleEnd="70452"
           MonolithOffset="8392704" MonolithLength="73728" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM1Vel3R1.wav" Root="13"
           LoKey="13" HiKey="13" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -244,7 +244,7 @@
           MonolithOffset="8613888" MonolithLength="73728" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM1Vel4R1.wav" Root="12"
           LoKey="12" HiKey="12" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="23.2802848815918" Duplicate="1" SampleEnd="78258"
+          NormalizedPeak="23.2802848815918" Duplicate="0" SampleEnd="78258"
           MonolithOffset="8687616" MonolithLength="81920" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM1Vel4R1.wav" Root="13"
           LoKey="13" HiKey="13" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -260,7 +260,7 @@
           MonolithOffset="8933376" MonolithLength="81920" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM2M1Vel1.wav" Root="16"
           LoKey="16" HiKey="16" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="302.5664367675781" Duplicate="1" SampleEnd="122878"
+          NormalizedPeak="302.5664367675781" Duplicate="0" SampleEnd="122878"
           MonolithOffset="9015296" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM2M1Vel1.wav" Root="17"
           LoKey="17" HiKey="17" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -276,7 +276,7 @@
           MonolithOffset="9383936" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM2M1Vel2.wav" Root="16"
           LoKey="16" HiKey="16" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="178.8103637695312" Duplicate="1" SampleEnd="122017"
+          NormalizedPeak="178.8103637695312" Duplicate="0" SampleEnd="122017"
           MonolithOffset="9506816" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM2M1Vel2.wav" Root="17"
           LoKey="17" HiKey="17" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -292,7 +292,7 @@
           MonolithOffset="9875456" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM2M1Vel3.wav" Root="16"
           LoKey="16" HiKey="16" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="49.821533203125" Duplicate="1" SampleEnd="124217"
+          NormalizedPeak="49.821533203125" Duplicate="0" SampleEnd="124217"
           MonolithOffset="9998336" MonolithLength="126976" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM2M1Vel3.wav" Root="17"
           LoKey="17" HiKey="17" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -308,7 +308,7 @@
           MonolithOffset="10379264" MonolithLength="126976" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM2M1Vel4.wav" Root="16"
           LoKey="16" HiKey="16" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="26.64525413513184" Duplicate="1" SampleEnd="122102"
+          NormalizedPeak="26.64525413513184" Duplicate="0" SampleEnd="122102"
           MonolithOffset="10506240" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM2M1Vel4.wav" Root="17"
           LoKey="17" HiKey="17" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -324,7 +324,7 @@
           MonolithOffset="10874880" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel2.wav" Root="20"
           LoKey="20" HiKey="20" LoVel="0" HiVel="41" RRGroup="1" Normalized="1"
-          NormalizedPeak="105.1646347045898" Duplicate="1" SampleEnd="59956"
+          NormalizedPeak="105.1646347045898" Duplicate="0" SampleEnd="59956"
           MonolithOffset="10997760" MonolithLength="61440" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel2.wav" Root="21"
           LoKey="21" HiKey="21" LoVel="0" HiVel="41" RRGroup="1" Normalized="1"
@@ -340,7 +340,7 @@
           MonolithOffset="11182080" MonolithLength="61440" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel3.wav" Root="20"
           LoKey="20" HiKey="20" LoVel="42" HiVel="83" RRGroup="1" Normalized="1"
-          NormalizedPeak="29.63830757141113" Duplicate="1" SampleEnd="50993"
+          NormalizedPeak="29.63830757141113" Duplicate="0" SampleEnd="50993"
           MonolithOffset="11243520" MonolithLength="53248" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel3.wav" Root="21"
           LoKey="21" HiKey="21" LoVel="42" HiVel="83" RRGroup="1" Normalized="1"
@@ -356,7 +356,7 @@
           MonolithOffset="11403264" MonolithLength="53248" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel4.wav" Root="20"
           LoKey="20" HiKey="20" LoVel="84" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="11.91960716247559" Duplicate="1" SampleEnd="52366"
+          NormalizedPeak="11.91960716247559" Duplicate="0" SampleEnd="52366"
           MonolithOffset="11456512" MonolithLength="53248" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel4.wav" Root="21"
           LoKey="21" HiKey="21" LoVel="84" HiVel="127" RRGroup="1" Normalized="1"
@@ -372,7 +372,7 @@
           MonolithOffset="11616256" MonolithLength="53248" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel2R2.wav" Root="20"
           LoKey="20" HiKey="20" LoVel="0" HiVel="41" RRGroup="1" Normalized="1"
-          NormalizedPeak="81.29823303222656" Duplicate="1" SampleEnd="56679"
+          NormalizedPeak="81.29823303222656" Duplicate="0" SampleEnd="56679"
           MonolithOffset="11669504" MonolithLength="57344" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel2R2.wav" Root="21"
           LoKey="21" HiKey="21" LoVel="0" HiVel="41" RRGroup="1" Normalized="1"
@@ -388,7 +388,7 @@
           MonolithOffset="11841536" MonolithLength="57344" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel3R2.wav" Root="20"
           LoKey="20" HiKey="20" LoVel="42" HiVel="83" RRGroup="1" Normalized="1"
-          NormalizedPeak="53.37459945678711" Duplicate="1" SampleEnd="55148"
+          NormalizedPeak="53.37459945678711" Duplicate="0" SampleEnd="55148"
           MonolithOffset="11898880" MonolithLength="57344" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel3R2.wav" Root="21"
           LoKey="21" HiKey="21" LoVel="42" HiVel="83" RRGroup="1" Normalized="1"
@@ -404,7 +404,7 @@
           MonolithOffset="12070912" MonolithLength="57344" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel4R2.wav" Root="20"
           LoKey="20" HiKey="20" LoVel="84" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="10.17608737945557" Duplicate="1" SampleEnd="49187"
+          NormalizedPeak="10.17608737945557" Duplicate="0" SampleEnd="49187"
           MonolithOffset="12128256" MonolithLength="53248" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNRIM3Vel4R2.wav" Root="21"
           LoKey="21" HiKey="21" LoVel="84" HiVel="127" RRGroup="1" Normalized="1"
@@ -420,7 +420,7 @@
           MonolithOffset="12288000" MonolithLength="53248" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel01R2.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="0" HiVel="11" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="60.44178009033203" Duplicate="1"
+          Normalized="1" NormalizedPeak="60.44178009033203" Duplicate="0"
           SampleEnd="67253" MonolithOffset="12341248" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel01R2.wav" Root="49"
@@ -430,7 +430,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel02R2.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="12" HiVel="23" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="19.53250694274902" Duplicate="1"
+          Normalized="1" NormalizedPeak="19.53250694274902" Duplicate="0"
           SampleEnd="67253" MonolithOffset="12480512" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel02R2.wav" Root="49"
@@ -440,7 +440,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel03R2.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="24" HiVel="35" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="13.96122741699219" Duplicate="1"
+          Normalized="1" NormalizedPeak="13.96122741699219" Duplicate="0"
           SampleEnd="67253" MonolithOffset="12619776" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel03R2.wav" Root="49"
@@ -450,7 +450,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel04R2.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="36" HiVel="47" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="11.57026863098145" Duplicate="1"
+          Normalized="1" NormalizedPeak="11.57026863098145" Duplicate="0"
           SampleEnd="67253" MonolithOffset="12759040" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel04R2.wav" Root="49"
@@ -460,7 +460,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel05R2.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="48" HiVel="59" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="6.898315906524658" Duplicate="1"
+          Normalized="1" NormalizedPeak="6.898315906524658" Duplicate="0"
           SampleEnd="67253" MonolithOffset="12898304" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel05R2.wav" Root="49"
@@ -470,7 +470,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel06R2.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="60" HiVel="71" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.583834409713745" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.583834409713745" Duplicate="0"
           SampleEnd="67253" MonolithOffset="13037568" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel06R2.wav" Root="49"
@@ -480,7 +480,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel07R2.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="72" HiVel="83" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="4.06588888168335" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.06588888168335" Duplicate="0"
           SampleEnd="67253" MonolithOffset="13176832" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel07R2.wav" Root="49"
@@ -490,7 +490,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel08R2.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="84" HiVel="95" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.715921878814697" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.715921878814697" Duplicate="0"
           SampleEnd="67253" MonolithOffset="13316096" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel08R2.wav" Root="49"
@@ -500,7 +500,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel09R2.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="96" HiVel="107" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.079026460647583" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.079026460647583" Duplicate="0"
           SampleEnd="67253" MonolithOffset="13455360" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel09R2.wav" Root="49"
@@ -510,7 +510,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel10R2.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="108" HiVel="127" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.079026460647583" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.079026460647583" Duplicate="0"
           SampleEnd="67253" MonolithOffset="13594624" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel10R2.wav" Root="49"
@@ -520,7 +520,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel01R1.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="0" HiVel="11" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="27.91056060791016" Duplicate="1"
+          Normalized="1" NormalizedPeak="27.91056060791016" Duplicate="0"
           SampleEnd="67252" MonolithOffset="13733888" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel01R1.wav" Root="49"
@@ -530,7 +530,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel02R1.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="12" HiVel="23" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="14.3275032043457" Duplicate="1"
+          Normalized="1" NormalizedPeak="14.3275032043457" Duplicate="0"
           SampleEnd="67253" MonolithOffset="13873152" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel02R1.wav" Root="49"
@@ -540,7 +540,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel03R1.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="24" HiVel="35" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="10.70816993713379" Duplicate="1"
+          Normalized="1" NormalizedPeak="10.70816993713379" Duplicate="0"
           SampleEnd="67253" MonolithOffset="14012416" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel03R1.wav" Root="49"
@@ -550,7 +550,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel04R1.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="36" HiVel="47" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="9.674343109130859" Duplicate="1"
+          Normalized="1" NormalizedPeak="9.674343109130859" Duplicate="0"
           SampleEnd="67253" MonolithOffset="14151680" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel04R1.wav" Root="49"
@@ -560,7 +560,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel05R1.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="48" HiVel="59" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="6.5652174949646" Duplicate="1"
+          Normalized="1" NormalizedPeak="6.5652174949646" Duplicate="0"
           SampleEnd="67253" MonolithOffset="14290944" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel05R1.wav" Root="49"
@@ -570,7 +570,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel06R1.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="60" HiVel="71" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="5.394632816314697" Duplicate="1"
+          Normalized="1" NormalizedPeak="5.394632816314697" Duplicate="0"
           SampleEnd="67253" MonolithOffset="14430208" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel06R1.wav" Root="49"
@@ -580,7 +580,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel07R1.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="72" HiVel="83" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.122748374938965" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.122748374938965" Duplicate="0"
           SampleEnd="67253" MonolithOffset="14569472" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel07R1.wav" Root="49"
@@ -590,7 +590,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel08R1.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="84" HiVel="95" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.786779403686523" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.786779403686523" Duplicate="0"
           SampleEnd="67253" MonolithOffset="14708736" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel08R1.wav" Root="49"
@@ -600,7 +600,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel09R1.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="96" HiVel="107" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.182807207107544" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.182807207107544" Duplicate="0"
           SampleEnd="67253" MonolithOffset="14848000" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel09R1.wav" Root="49"
@@ -610,7 +610,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel10R1.wav" Root="48"
           LoKey="48" HiKey="48" LoVel="108" HiVel="127" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.745656251907349" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.745656251907349" Duplicate="0"
           SampleEnd="67253" MonolithOffset="14987264" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC1Vel10R1.wav" Root="49"
@@ -620,7 +620,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel01R2.wav" Root="50"
           LoKey="50" HiKey="50" LoVel="0" HiVel="11" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="36.56011199951172" Duplicate="1"
+          Normalized="1" NormalizedPeak="36.56011199951172" Duplicate="0"
           SampleEnd="85570" MonolithOffset="15126528" MonolithLength="86016"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel01R2.wav" Root="51"
@@ -630,7 +630,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel02R2.wav" Root="50"
           LoKey="50" HiKey="50" LoVel="12" HiVel="23" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="25.09919738769531" Duplicate="1"
+          Normalized="1" NormalizedPeak="25.09919738769531" Duplicate="0"
           SampleEnd="91964" MonolithOffset="15298560" MonolithLength="94208"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel02R2.wav" Root="51"
@@ -640,7 +640,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel03R2.wav" Root="50"
           LoKey="50" HiKey="50" LoVel="24" HiVel="35" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="18.54779624938965" Duplicate="1"
+          Normalized="1" NormalizedPeak="18.54779624938965" Duplicate="0"
           SampleEnd="83053" MonolithOffset="15486976" MonolithLength="86016"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel03R2.wav" Root="51"
@@ -650,7 +650,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel04R2.wav" Root="50"
           LoKey="50" HiKey="50" LoVel="36" HiVel="47" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="10.44200134277344" Duplicate="1"
+          Normalized="1" NormalizedPeak="10.44200134277344" Duplicate="0"
           SampleEnd="77926" MonolithOffset="15659008" MonolithLength="81920"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel04R2.wav" Root="51"
@@ -660,7 +660,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel05R2.wav" Root="50"
           LoKey="50" HiKey="50" LoVel="48" HiVel="59" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="7.614919662475586" Duplicate="1"
+          Normalized="1" NormalizedPeak="7.614919662475586" Duplicate="0"
           SampleEnd="75863" MonolithOffset="15822848" MonolithLength="77824"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel05R2.wav" Root="51"
@@ -670,7 +670,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel06R2.wav" Root="50"
           LoKey="50" HiKey="50" LoVel="60" HiVel="71" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="7.614919662475586" Duplicate="1"
+          Normalized="1" NormalizedPeak="7.614919662475586" Duplicate="0"
           SampleEnd="75863" MonolithOffset="15978496" MonolithLength="77824"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel06R2.wav" Root="51"
@@ -680,7 +680,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel07R2.wav" Root="50"
           LoKey="50" HiKey="50" LoVel="72" HiVel="83" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="7.816555500030518" Duplicate="1"
+          Normalized="1" NormalizedPeak="7.816555500030518" Duplicate="0"
           SampleEnd="84011" MonolithOffset="16134144" MonolithLength="86016"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel07R2.wav" Root="51"
@@ -690,7 +690,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel08R2.wav" Root="50"
           LoKey="50" HiKey="50" LoVel="84" HiVel="95" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="6.62227201461792" Duplicate="1"
+          Normalized="1" NormalizedPeak="6.62227201461792" Duplicate="0"
           SampleEnd="73107" MonolithOffset="16306176" MonolithLength="73728"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel08R2.wav" Root="51"
@@ -700,7 +700,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel09R2.wav" Root="50"
           LoKey="50" HiKey="50" LoVel="96" HiVel="107" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.97561240196228" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.97561240196228" Duplicate="0"
           SampleEnd="86681" MonolithOffset="16453632" MonolithLength="90112"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel09R2.wav" Root="51"
@@ -710,7 +710,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel10R2.wav" Root="50"
           LoKey="50" HiKey="50" LoVel="108" HiVel="127" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="4.839314937591553" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.839314937591553" Duplicate="0"
           SampleEnd="79992" MonolithOffset="16633856" MonolithLength="81920"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHC2Vel10R2.wav" Root="51"
@@ -720,7 +720,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel3R2.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="0" HiVel="15" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="20.5822868347168" Duplicate="1"
+          Normalized="1" NormalizedPeak="20.5822868347168" Duplicate="0"
           SampleEnd="132808" MonolithOffset="16797696" MonolithLength="135168"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel3R2.wav" Root="54"
@@ -730,7 +730,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel4R2.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="16" HiVel="31" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="20.5822868347168" Duplicate="1"
+          Normalized="1" NormalizedPeak="20.5822868347168" Duplicate="0"
           SampleEnd="67174" MonolithOffset="17068032" MonolithLength="69632"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel4R2.wav" Root="54"
@@ -740,7 +740,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel05R2.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="32" HiVel="47" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="14.87380886077881" Duplicate="1"
+          Normalized="1" NormalizedPeak="14.87380886077881" Duplicate="0"
           SampleEnd="82562" MonolithOffset="17207296" MonolithLength="86016"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel05R2.wav" Root="54"
@@ -750,7 +750,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel06R2.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="48" HiVel="63" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="7.663002967834473" Duplicate="1"
+          Normalized="1" NormalizedPeak="7.663002967834473" Duplicate="0"
           SampleEnd="74084" MonolithOffset="17379328" MonolithLength="77824"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel06R2.wav" Root="54"
@@ -760,7 +760,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel07R2.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="64" HiVel="79" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="7.386609554290771" Duplicate="1"
+          Normalized="1" NormalizedPeak="7.386609554290771" Duplicate="0"
           SampleEnd="74551" MonolithOffset="17534976" MonolithLength="77824"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel07R2.wav" Root="54"
@@ -770,7 +770,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel08R2.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="80" HiVel="95" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="4.967707633972168" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.967707633972168" Duplicate="0"
           SampleEnd="98030" MonolithOffset="17690624" MonolithLength="98304"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel08R2.wav" Root="54"
@@ -780,7 +780,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel09R2.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="96" HiVel="111" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.214341640472412" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.214341640472412" Duplicate="0"
           SampleEnd="85042" MonolithOffset="17887232" MonolithLength="86016"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel09R2.wav" Root="54"
@@ -790,7 +790,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel10R2.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="112" HiVel="127" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="2.367900133132935" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.367900133132935" Duplicate="0"
           SampleEnd="83097" MonolithOffset="18059264" MonolithLength="86016"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel10R2.wav" Root="54"
@@ -800,7 +800,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel3R1.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="0" HiVel="15" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="46.86858367919922" Duplicate="1"
+          Normalized="1" NormalizedPeak="46.86858367919922" Duplicate="0"
           SampleEnd="64290" MonolithOffset="18231296" MonolithLength="65536"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel3R1.wav" Root="54"
@@ -810,7 +810,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel4R1.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="16" HiVel="31" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="30.03219223022461" Duplicate="1"
+          Normalized="1" NormalizedPeak="30.03219223022461" Duplicate="0"
           SampleEnd="98915" MonolithOffset="18362368" MonolithLength="102400"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel4R1.wav" Root="54"
@@ -820,7 +820,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel05R1.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="32" HiVel="47" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="8.245344161987305" Duplicate="1"
+          Normalized="1" NormalizedPeak="8.245344161987305" Duplicate="0"
           SampleEnd="84980" MonolithOffset="18567168" MonolithLength="86016"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel05R1.wav" Root="54"
@@ -830,7 +830,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel06R1.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="48" HiVel="63" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="8.161145210266113" Duplicate="1"
+          Normalized="1" NormalizedPeak="8.161145210266113" Duplicate="0"
           SampleEnd="81046" MonolithOffset="18739200" MonolithLength="81920"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel06R1.wav" Root="54"
@@ -840,7 +840,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel07R1.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="64" HiVel="79" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="4.900837421417236" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.900837421417236" Duplicate="0"
           SampleEnd="97233" MonolithOffset="18903040" MonolithLength="98304"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel07R1.wav" Root="54"
@@ -850,7 +850,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel08R1.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="80" HiVel="95" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.470345258712769" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.470345258712769" Duplicate="0"
           SampleEnd="83554" MonolithOffset="19099648" MonolithLength="86016"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel08R1.wav" Root="54"
@@ -860,7 +860,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel09R1.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="96" HiVel="111" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="2.008028030395508" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.008028030395508" Duplicate="0"
           SampleEnd="87743" MonolithOffset="19271680" MonolithLength="90112"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel09R1.wav" Root="54"
@@ -870,7 +870,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel10R1.wav" Root="53"
           LoKey="53" HiKey="53" LoVel="112" HiVel="127" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="2.672239542007446" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.672239542007446" Duplicate="0"
           SampleEnd="193167" MonolithOffset="19451904" MonolithLength="196608"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO1Vel10R1.wav" Root="54"
@@ -880,7 +880,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel03.wav" Root="55"
           LoKey="55" HiKey="55" LoVel="0" HiVel="17" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="4.842175006866455" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.842175006866455" Duplicate="0"
           SampleEnd="211796" MonolithOffset="19845120" MonolithLength="212992"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel03.wav" Root="56"
@@ -890,7 +890,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel04.wav" Root="55"
           LoKey="55" HiKey="55" LoVel="18" HiVel="35" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="6.337911128997803" Duplicate="1"
+          Normalized="1" NormalizedPeak="6.337911128997803" Duplicate="0"
           SampleEnd="92263" MonolithOffset="20271104" MonolithLength="94208"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel04.wav" Root="56"
@@ -900,7 +900,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel05.wav" Root="55"
           LoKey="55" HiKey="55" LoVel="36" HiVel="53" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="5.22349739074707" Duplicate="1"
+          Normalized="1" NormalizedPeak="5.22349739074707" Duplicate="0"
           SampleEnd="103730" MonolithOffset="20459520" MonolithLength="106496"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel05.wav" Root="56"
@@ -910,7 +910,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel06.wav" Root="55"
           LoKey="55" HiKey="55" LoVel="54" HiVel="71" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="2.981528759002686" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.981528759002686" Duplicate="0"
           SampleEnd="131375" MonolithOffset="20672512" MonolithLength="135168"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel06.wav" Root="56"
@@ -920,7 +920,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel07.wav" Root="55"
           LoKey="55" HiKey="55" LoVel="72" HiVel="89" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="3.177252054214478" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.177252054214478" Duplicate="0"
           SampleEnd="141849" MonolithOffset="20942848" MonolithLength="143360"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel07.wav" Root="56"
@@ -930,7 +930,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel08.wav" Root="55"
           LoKey="55" HiKey="55" LoVel="90" HiVel="107" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="2.579266309738159" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.579266309738159" Duplicate="0"
           SampleEnd="123874" MonolithOffset="21229568" MonolithLength="126976"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel08.wav" Root="56"
@@ -940,7 +940,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel10.wav" Root="55"
           LoKey="55" HiKey="55" LoVel="108" HiVel="127" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="2.363288879394531" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.363288879394531" Duplicate="0"
           SampleEnd="108835" MonolithOffset="21483520" MonolithLength="110592"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO2Vel10.wav" Root="56"
@@ -950,7 +950,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel01.wav" Root="57"
           LoKey="57" HiKey="57" LoVel="0" HiVel="11" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="39.93844985961914" Duplicate="1"
+          Normalized="1" NormalizedPeak="39.93844985961914" Duplicate="0"
           SampleEnd="74362" MonolithOffset="21704704" MonolithLength="77824"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel01.wav" Root="58"
@@ -960,7 +960,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel02.wav" Root="57"
           LoKey="57" HiKey="57" LoVel="12" HiVel="23" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="25.45874786376953" Duplicate="1"
+          Normalized="1" NormalizedPeak="25.45874786376953" Duplicate="0"
           SampleEnd="78710" MonolithOffset="21860352" MonolithLength="81920"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel02.wav" Root="58"
@@ -970,7 +970,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel03.wav" Root="57"
           LoKey="57" HiKey="57" LoVel="24" HiVel="35" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="12.7299919128418" Duplicate="1"
+          Normalized="1" NormalizedPeak="12.7299919128418" Duplicate="0"
           SampleEnd="93248" MonolithOffset="22024192" MonolithLength="94208"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel03.wav" Root="58"
@@ -980,7 +980,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel04.wav" Root="57"
           LoKey="57" HiKey="57" LoVel="36" HiVel="47" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="7.75" Duplicate="1" SampleEnd="83569"
+          Normalized="1" NormalizedPeak="7.75" Duplicate="0" SampleEnd="83569"
           MonolithOffset="22212608" MonolithLength="86016" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel04.wav" Root="58"
           LoKey="58" HiKey="58" LoVel="36" HiVel="47" RRGroup="1" Volume="-12"
@@ -988,7 +988,7 @@
           MonolithOffset="22298624" MonolithLength="86016" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel05.wav" Root="57"
           LoKey="57" HiKey="57" LoVel="48" HiVel="59" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="7.75" Duplicate="1" SampleEnd="83569"
+          Normalized="1" NormalizedPeak="7.75" Duplicate="0" SampleEnd="83569"
           MonolithOffset="22384640" MonolithLength="86016" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel05.wav" Root="58"
           LoKey="58" HiKey="58" LoVel="48" HiVel="59" RRGroup="1" Volume="-12"
@@ -996,7 +996,7 @@
           MonolithOffset="22470656" MonolithLength="86016" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel06.wav" Root="57"
           LoKey="57" HiKey="57" LoVel="60" HiVel="71" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="7.75" Duplicate="1" SampleEnd="83569"
+          Normalized="1" NormalizedPeak="7.75" Duplicate="0" SampleEnd="83569"
           MonolithOffset="22556672" MonolithLength="86016" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel06.wav" Root="58"
           LoKey="58" HiKey="58" LoVel="60" HiVel="71" RRGroup="1" Volume="-12"
@@ -1004,7 +1004,7 @@
           MonolithOffset="22642688" MonolithLength="86016" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel07.wav" Root="57"
           LoKey="57" HiKey="57" LoVel="72" HiVel="83" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="7.75" Duplicate="1" SampleEnd="83569"
+          Normalized="1" NormalizedPeak="7.75" Duplicate="0" SampleEnd="83569"
           MonolithOffset="22728704" MonolithLength="86016" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel07.wav" Root="58"
           LoKey="58" HiKey="58" LoVel="72" HiVel="83" RRGroup="1" Volume="-12"
@@ -1012,7 +1012,7 @@
           MonolithOffset="22814720" MonolithLength="86016" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel08.wav" Root="57"
           LoKey="57" HiKey="57" LoVel="84" HiVel="95" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="6.367469787597656" Duplicate="1"
+          Normalized="1" NormalizedPeak="6.367469787597656" Duplicate="0"
           SampleEnd="76868" MonolithOffset="22900736" MonolithLength="77824"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel08.wav" Root="58"
@@ -1022,7 +1022,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel09.wav" Root="57"
           LoKey="57" HiKey="57" LoVel="96" HiVel="107" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="4.527079582214355" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.527079582214355" Duplicate="0"
           SampleEnd="82208" MonolithOffset="23056384" MonolithLength="86016"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel09.wav" Root="58"
@@ -1032,7 +1032,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel10.wav" Root="57"
           LoKey="57" HiKey="57" LoVel="108" HiVel="127" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="2.893333196640015" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.893333196640015" Duplicate="0"
           SampleEnd="71564" MonolithOffset="23228416" MonolithLength="73728"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHO3Vel10.wav" Root="58"
@@ -1042,97 +1042,97 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHF1Vel01.wav" Root="52"
           LoKey="52" HiKey="52" LoVel="0" HiVel="11" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="77.01953887939453" Duplicate="1"
+          Normalized="1" NormalizedPeak="77.01953887939453" Duplicate="0"
           SampleEnd="71382" MonolithOffset="23375872" MonolithLength="73728"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHF1Vel02.wav" Root="52"
           LoKey="52" HiKey="52" LoVel="12" HiVel="23" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="39.42487335205078" Duplicate="1"
+          Normalized="1" NormalizedPeak="39.42487335205078" Duplicate="0"
           SampleEnd="42818" MonolithOffset="23449600" MonolithLength="45056"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHF1Vel03.wav" Root="52"
           LoKey="52" HiKey="52" LoVel="24" HiVel="35" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="14.87380886077881" Duplicate="1"
+          Normalized="1" NormalizedPeak="14.87380886077881" Duplicate="0"
           SampleEnd="83428" MonolithOffset="23494656" MonolithLength="86016"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHF1Vel04.wav" Root="52"
           LoKey="52" HiKey="52" LoVel="36" HiVel="47" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="8.588991165161133" Duplicate="1"
+          Normalized="1" NormalizedPeak="8.588991165161133" Duplicate="0"
           SampleEnd="88767" MonolithOffset="23580672" MonolithLength="90112"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHF1Vel05.wav" Root="52"
           LoKey="52" HiKey="52" LoVel="48" HiVel="59" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="6.286838054656982" Duplicate="1"
+          Normalized="1" NormalizedPeak="6.286838054656982" Duplicate="0"
           SampleEnd="33223" MonolithOffset="23670784" MonolithLength="36864"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHF1Vel06.wav" Root="52"
           LoKey="52" HiKey="52" LoVel="60" HiVel="71" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="6.664022922515869" Duplicate="1"
+          Normalized="1" NormalizedPeak="6.664022922515869" Duplicate="0"
           SampleEnd="34188" MonolithOffset="23707648" MonolithLength="36864"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHF1Vel07.wav" Root="52"
           LoKey="52" HiKey="52" LoVel="72" HiVel="83" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="6.399804592132568" Duplicate="1"
+          Normalized="1" NormalizedPeak="6.399804592132568" Duplicate="0"
           SampleEnd="33897" MonolithOffset="23744512" MonolithLength="36864"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHF1Vel08.wav" Root="52"
           LoKey="52" HiKey="52" LoVel="84" HiVel="95" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="5.380459785461426" Duplicate="1"
+          Normalized="1" NormalizedPeak="5.380459785461426" Duplicate="0"
           SampleEnd="25888" MonolithOffset="23781376" MonolithLength="28672"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHF1Vel09.wav" Root="52"
           LoKey="52" HiKey="52" LoVel="96" HiVel="107" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="4.442380905151367" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.442380905151367" Duplicate="0"
           SampleEnd="22773" MonolithOffset="23810048" MonolithLength="24576"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHF1Vel10.wav" Root="52"
           LoKey="52" HiKey="52" LoVel="108" HiVel="127" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="4.942232608795166" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.942232608795166" Duplicate="0"
           SampleEnd="27913" MonolithOffset="23834624" MonolithLength="28672"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHFO1Vel02.wav" Root="59"
           LoKey="59" HiKey="59" LoVel="0" HiVel="15" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="45.02314376831055" Duplicate="1"
+          Normalized="1" NormalizedPeak="45.02314376831055" Duplicate="0"
           SampleEnd="83566" MonolithOffset="23863296" MonolithLength="86016"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHFO1Vel03.wav" Root="59"
           LoKey="59" HiKey="59" LoVel="16" HiVel="31" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="33.69357299804688" Duplicate="1"
+          Normalized="1" NormalizedPeak="33.69357299804688" Duplicate="0"
           SampleEnd="106040" MonolithOffset="23949312" MonolithLength="106496"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHFO1Vel04.wav" Root="59"
           LoKey="59" HiKey="59" LoVel="32" HiVel="47" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="12.86999225616455" Duplicate="1"
+          Normalized="1" NormalizedPeak="12.86999225616455" Duplicate="0"
           SampleEnd="127698" MonolithOffset="24055808" MonolithLength="131072"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHFO1Vel05.wav" Root="59"
           LoKey="59" HiKey="59" LoVel="48" HiVel="63" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="10.07905292510986" Duplicate="1"
+          Normalized="1" NormalizedPeak="10.07905292510986" Duplicate="0"
           SampleEnd="170212" MonolithOffset="24186880" MonolithLength="172032"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHFO1Vel06.wav" Root="59"
           LoKey="59" HiKey="59" LoVel="64" HiVel="79" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="11.35771179199219" Duplicate="1"
+          Normalized="1" NormalizedPeak="11.35771179199219" Duplicate="0"
           SampleEnd="136855" MonolithOffset="24358912" MonolithLength="139264"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHFO1Vel08.wav" Root="59"
           LoKey="59" HiKey="59" LoVel="80" HiVel="95" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="8.960076332092285" Duplicate="1"
+          Normalized="1" NormalizedPeak="8.960076332092285" Duplicate="0"
           SampleEnd="236911" MonolithOffset="24498176" MonolithLength="237568"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHFO1Vel09.wav" Root="59"
           LoKey="59" HiKey="59" LoVel="96" HiVel="111" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="7.775747776031494" Duplicate="1"
+          Normalized="1" NormalizedPeak="7.775747776031494" Duplicate="0"
           SampleEnd="104070" MonolithOffset="24735744" MonolithLength="106496"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HHFO1Vel10.wav" Root="59"
           LoKey="59" HiKey="59" LoVel="112" HiVel="127" RRGroup="1" Volume="-12"
-          Normalized="1" NormalizedPeak="8.730881690979004" Duplicate="1"
+          Normalized="1" NormalizedPeak="8.730881690979004" Duplicate="0"
           SampleEnd="257398" MonolithOffset="24842240" MonolithLength="258048"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel04.wav" Root="72"
           LoKey="72" HiKey="72" LoVel="0" HiVel="19" RRGroup="1" Normalized="1"
-          NormalizedPeak="162.9122619628906" Duplicate="1" SampleEnd="381526"
+          NormalizedPeak="162.9122619628906" Duplicate="0" SampleEnd="381526"
           MonolithOffset="25100288" MonolithLength="385024" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel04.wav" Root="73"
           LoKey="73" HiKey="73" LoVel="0" HiVel="19" RRGroup="1" Normalized="1"
@@ -1148,7 +1148,7 @@
           MonolithOffset="26255360" MonolithLength="385024" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel05.wav" Root="72"
           LoKey="72" HiKey="72" LoVel="20" HiVel="37" RRGroup="1" Normalized="1"
-          NormalizedPeak="22.17169952392578" Duplicate="1" SampleEnd="354785"
+          NormalizedPeak="22.17169952392578" Duplicate="0" SampleEnd="354785"
           MonolithOffset="26640384" MonolithLength="356352" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel05.wav" Root="73"
           LoKey="73" HiKey="73" LoVel="20" HiVel="37" RRGroup="1" Normalized="1"
@@ -1164,7 +1164,7 @@
           MonolithOffset="27709440" MonolithLength="356352" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel06.wav" Root="72"
           LoKey="72" HiKey="72" LoVel="37" HiVel="54" RRGroup="1" Normalized="1"
-          NormalizedPeak="7.863451480865479" Duplicate="1" SampleEnd="362597"
+          NormalizedPeak="7.863451480865479" Duplicate="0" SampleEnd="362597"
           MonolithOffset="28065792" MonolithLength="364544" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel06.wav" Root="73"
           LoKey="73" HiKey="73" LoVel="37" HiVel="54" RRGroup="1" Normalized="1"
@@ -1180,7 +1180,7 @@
           MonolithOffset="29159424" MonolithLength="364544" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel07.wav" Root="72"
           LoKey="72" HiKey="72" LoVel="54" HiVel="71" RRGroup="1" Normalized="1"
-          NormalizedPeak="6.777042388916016" Duplicate="1" SampleEnd="313846"
+          NormalizedPeak="6.777042388916016" Duplicate="0" SampleEnd="313846"
           MonolithOffset="29523968" MonolithLength="315392" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel07.wav" Root="73"
           LoKey="73" HiKey="73" LoVel="54" HiVel="71" RRGroup="1" Normalized="1"
@@ -1196,7 +1196,7 @@
           MonolithOffset="30470144" MonolithLength="315392" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel08.wav" Root="72"
           LoKey="72" HiKey="72" LoVel="72" HiVel="89" RRGroup="1" Normalized="1"
-          NormalizedPeak="6.3873291015625" Duplicate="1" SampleEnd="385563"
+          NormalizedPeak="6.3873291015625" Duplicate="0" SampleEnd="385563"
           MonolithOffset="30785536" MonolithLength="389120" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel08.wav" Root="73"
           LoKey="73" HiKey="73" LoVel="72" HiVel="89" RRGroup="1" Normalized="1"
@@ -1212,7 +1212,7 @@
           MonolithOffset="31952896" MonolithLength="389120" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel09.wav" Root="72"
           LoKey="72" HiKey="72" LoVel="90" HiVel="107" RRGroup="1" Normalized="1"
-          NormalizedPeak="5.127053737640381" Duplicate="1" SampleEnd="361616"
+          NormalizedPeak="5.127053737640381" Duplicate="0" SampleEnd="361616"
           MonolithOffset="32342016" MonolithLength="364544" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel09.wav" Root="73"
           LoKey="73" HiKey="73" LoVel="90" HiVel="107" RRGroup="1" Normalized="1"
@@ -1228,7 +1228,7 @@
           MonolithOffset="33435648" MonolithLength="364544" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel10.wav" Root="72"
           LoKey="72" HiKey="72" LoVel="107" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="4.390593528747559" Duplicate="1" SampleEnd="372929"
+          NormalizedPeak="4.390593528747559" Duplicate="0" SampleEnd="372929"
           MonolithOffset="33800192" MonolithLength="376832" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE1Vel10.wav" Root="73"
           LoKey="73" HiKey="73" LoVel="107" HiVel="127" RRGroup="1" Normalized="1"
@@ -1244,7 +1244,7 @@
           MonolithOffset="34930688" MonolithLength="376832" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel04.wav" Root="76"
           LoKey="76" HiKey="76" LoVel="0" HiVel="17" RRGroup="1" Normalized="1"
-          NormalizedPeak="263.2630920410156" Duplicate="1" SampleEnd="381525"
+          NormalizedPeak="263.2630920410156" Duplicate="0" SampleEnd="381525"
           MonolithOffset="35307520" MonolithLength="385024" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel04.wav" Root="77"
           LoKey="77" HiKey="77" LoVel="0" HiVel="17" RRGroup="1" Normalized="1"
@@ -1260,7 +1260,7 @@
           MonolithOffset="36462592" MonolithLength="385024" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel05.wav" Root="76"
           LoKey="76" HiKey="76" LoVel="18" HiVel="35" RRGroup="1" Normalized="1"
-          NormalizedPeak="43.89601135253906" Duplicate="1" SampleEnd="354785"
+          NormalizedPeak="43.89601135253906" Duplicate="0" SampleEnd="354785"
           MonolithOffset="36847616" MonolithLength="356352" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel05.wav" Root="77"
           LoKey="77" HiKey="77" LoVel="18" HiVel="35" RRGroup="1" Normalized="1"
@@ -1276,7 +1276,7 @@
           MonolithOffset="37916672" MonolithLength="356352" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel06.wav" Root="76"
           LoKey="76" HiKey="76" LoVel="36" HiVel="53" RRGroup="1" Normalized="1"
-          NormalizedPeak="20.34901428222656" Duplicate="1" SampleEnd="362597"
+          NormalizedPeak="20.34901428222656" Duplicate="0" SampleEnd="362597"
           MonolithOffset="38273024" MonolithLength="364544" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel06.wav" Root="77"
           LoKey="77" HiKey="77" LoVel="36" HiVel="53" RRGroup="1" Normalized="1"
@@ -1292,7 +1292,7 @@
           MonolithOffset="39366656" MonolithLength="364544" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel07.wav" Root="76"
           LoKey="76" HiKey="76" LoVel="54" HiVel="71" RRGroup="1" Normalized="1"
-          NormalizedPeak="25.95534324645996" Duplicate="1" SampleEnd="313846"
+          NormalizedPeak="25.95534324645996" Duplicate="0" SampleEnd="313846"
           MonolithOffset="39731200" MonolithLength="315392" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel07.wav" Root="77"
           LoKey="77" HiKey="77" LoVel="54" HiVel="71" RRGroup="1" Normalized="1"
@@ -1308,7 +1308,7 @@
           MonolithOffset="40677376" MonolithLength="315392" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel08.wav" Root="76"
           LoKey="76" HiKey="76" LoVel="72" HiVel="89" RRGroup="1" Normalized="1"
-          NormalizedPeak="20.37431907653809" Duplicate="1" SampleEnd="385563"
+          NormalizedPeak="20.37431907653809" Duplicate="0" SampleEnd="385563"
           MonolithOffset="40992768" MonolithLength="389120" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel08.wav" Root="77"
           LoKey="77" HiKey="77" LoVel="72" HiVel="89" RRGroup="1" Normalized="1"
@@ -1324,7 +1324,7 @@
           MonolithOffset="42160128" MonolithLength="389120" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel09.wav" Root="76"
           LoKey="76" HiKey="76" LoVel="90" HiVel="107" RRGroup="1" Normalized="1"
-          NormalizedPeak="23.32585906982422" Duplicate="1" SampleEnd="361616"
+          NormalizedPeak="23.32585906982422" Duplicate="0" SampleEnd="361616"
           MonolithOffset="42549248" MonolithLength="364544" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel09.wav" Root="77"
           LoKey="77" HiKey="77" LoVel="90" HiVel="107" RRGroup="1" Normalized="1"
@@ -1340,7 +1340,7 @@
           MonolithOffset="43642880" MonolithLength="364544" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel10.wav" Root="76"
           LoKey="76" HiKey="76" LoVel="108" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="13.38521289825439" Duplicate="1" SampleEnd="372929"
+          NormalizedPeak="13.38521289825439" Duplicate="0" SampleEnd="372929"
           MonolithOffset="44007424" MonolithLength="376832" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE2Vel10.wav" Root="77"
           LoKey="77" HiKey="77" LoVel="108" HiVel="127" RRGroup="1" Normalized="1"
@@ -1356,7 +1356,7 @@
           MonolithOffset="45137920" MonolithLength="376832" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel02.wav" Root="80"
           LoKey="80" HiKey="80" LoVel="0" HiVel="13" RRGroup="1" Volume="-10"
-          Normalized="1" NormalizedPeak="36.07086563110352" Duplicate="1"
+          Normalized="1" NormalizedPeak="36.07086563110352" Duplicate="0"
           SampleEnd="335419" MonolithOffset="45514752" MonolithLength="335872"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel02.wav" Root="81"
@@ -1376,7 +1376,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel03.wav" Root="80"
           LoKey="80" HiKey="80" LoVel="14" HiVel="27" RRGroup="1" Volume="-10"
-          Normalized="1" NormalizedPeak="31.58835983276367" Duplicate="1"
+          Normalized="1" NormalizedPeak="31.58835983276367" Duplicate="0"
           SampleEnd="416513" MonolithOffset="46858240" MonolithLength="417792"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel03.wav" Root="81"
@@ -1396,7 +1396,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel04.wav" Root="80"
           LoKey="80" HiKey="80" LoVel="28" HiVel="41" RRGroup="1" Volume="-10"
-          Normalized="1" NormalizedPeak="25.56426811218262" Duplicate="1"
+          Normalized="1" NormalizedPeak="25.56426811218262" Duplicate="0"
           SampleEnd="389180" MonolithOffset="48529408" MonolithLength="393216"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel04.wav" Root="81"
@@ -1416,7 +1416,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel05.wav" Root="80"
           LoKey="80" HiKey="80" LoVel="42" HiVel="55" RRGroup="1" Volume="-10"
-          Normalized="1" NormalizedPeak="16.96233940124512" Duplicate="1"
+          Normalized="1" NormalizedPeak="16.96233940124512" Duplicate="0"
           SampleEnd="380189" MonolithOffset="50102272" MonolithLength="380928"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel05.wav" Root="81"
@@ -1436,7 +1436,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel06.wav" Root="80"
           LoKey="80" HiKey="80" LoVel="56" HiVel="69" RRGroup="1" Volume="-10"
-          Normalized="1" NormalizedPeak="14.81999111175537" Duplicate="1"
+          Normalized="1" NormalizedPeak="14.81999111175537" Duplicate="0"
           SampleEnd="480413" MonolithOffset="51625984" MonolithLength="483328"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel06.wav" Root="81"
@@ -1456,7 +1456,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel07.wav" Root="80"
           LoKey="80" HiKey="80" LoVel="70" HiVel="83" RRGroup="1" Volume="-10"
-          Normalized="1" NormalizedPeak="13.35248565673828" Duplicate="1"
+          Normalized="1" NormalizedPeak="13.35248565673828" Duplicate="0"
           SampleEnd="416518" MonolithOffset="53559296" MonolithLength="417792"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel07.wav" Root="81"
@@ -1476,7 +1476,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel08.wav" Root="80"
           LoKey="80" HiKey="80" LoVel="84" HiVel="97" RRGroup="1" Volume="-10"
-          Normalized="1" NormalizedPeak="15.08609485626221" Duplicate="1"
+          Normalized="1" NormalizedPeak="15.08609485626221" Duplicate="0"
           SampleEnd="430834" MonolithOffset="55230464" MonolithLength="434176"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel08.wav" Root="81"
@@ -1496,7 +1496,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel09.wav" Root="80"
           LoKey="80" HiKey="80" LoVel="98" HiVel="111" RRGroup="1" Volume="-10"
-          Normalized="1" NormalizedPeak="12.82967948913574" Duplicate="1"
+          Normalized="1" NormalizedPeak="12.82967948913574" Duplicate="0"
           SampleEnd="430579" MonolithOffset="56967168" MonolithLength="434176"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel09.wav" Root="81"
@@ -1516,7 +1516,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel10.wav" Root="80"
           LoKey="80" HiKey="80" LoVel="112" HiVel="127" RRGroup="1" Volume="-10"
-          Normalized="1" NormalizedPeak="11.86780166625977" Duplicate="1"
+          Normalized="1" NormalizedPeak="11.86780166625977" Duplicate="0"
           SampleEnd="452096" MonolithOffset="58703872" MonolithLength="454656"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/RIDE3Vel10.wav" Root="81"
@@ -1536,7 +1536,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS1Vel1.wav" Root="84"
           LoKey="84" HiKey="84" LoVel="0" HiVel="24" RRGroup="1" Normalized="1"
-          NormalizedPeak="129.5018310546875" Duplicate="1" SampleEnd="238968"
+          NormalizedPeak="129.5018310546875" Duplicate="0" SampleEnd="238968"
           MonolithOffset="60522496" MonolithLength="241664" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS1Vel1.wav" Root="85"
           LoKey="85" HiKey="85" LoVel="0" HiVel="24" RRGroup="1" Normalized="1"
@@ -1548,7 +1548,7 @@
           MonolithOffset="61005824" MonolithLength="241664" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS1Vel2.wav" Root="84"
           LoKey="84" HiKey="84" LoVel="25" HiVel="49" RRGroup="1" Normalized="1"
-          NormalizedPeak="165.3724517822266" Duplicate="1" SampleEnd="537286"
+          NormalizedPeak="165.3724517822266" Duplicate="0" SampleEnd="537286"
           MonolithOffset="61247488" MonolithLength="540672" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS1Vel2.wav" Root="85"
           LoKey="85" HiKey="85" LoVel="25" HiVel="49" RRGroup="1" Normalized="1"
@@ -1560,7 +1560,7 @@
           MonolithOffset="62328832" MonolithLength="540672" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS1Vel3.wav" Root="84"
           LoKey="84" HiKey="84" LoVel="50" HiVel="74" RRGroup="1" Normalized="1"
-          NormalizedPeak="28.53336334228516" Duplicate="1" SampleEnd="344828"
+          NormalizedPeak="28.53336334228516" Duplicate="0" SampleEnd="344828"
           MonolithOffset="62869504" MonolithLength="348160" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS1Vel3.wav" Root="85"
           LoKey="85" HiKey="85" LoVel="50" HiVel="74" RRGroup="1" Normalized="1"
@@ -1572,7 +1572,7 @@
           MonolithOffset="63565824" MonolithLength="348160" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS1Vel4.wav" Root="84"
           LoKey="84" HiKey="84" LoVel="75" HiVel="102" RRGroup="1" Normalized="1"
-          NormalizedPeak="8.820188522338867" Duplicate="1" SampleEnd="470167"
+          NormalizedPeak="8.820188522338867" Duplicate="0" SampleEnd="470167"
           MonolithOffset="63913984" MonolithLength="471040" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS1Vel4.wav" Root="85"
           LoKey="85" HiKey="85" LoVel="75" HiVel="102" RRGroup="1" Normalized="1"
@@ -1584,7 +1584,7 @@
           MonolithOffset="64856064" MonolithLength="471040" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS1Vel5.wav" Root="84"
           LoKey="84" HiKey="84" LoVel="103" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="4.672322750091553" Duplicate="1" SampleEnd="439232"
+          NormalizedPeak="4.672322750091553" Duplicate="0" SampleEnd="439232"
           MonolithOffset="65327104" MonolithLength="442368" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS1Vel5.wav" Root="85"
           LoKey="85" HiKey="85" LoVel="103" HiVel="127" RRGroup="1" Normalized="1"
@@ -1596,7 +1596,7 @@
           MonolithOffset="66211840" MonolithLength="442368" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS2Vel1.wav" Root="90"
           LoKey="90" HiKey="90" LoVel="0" HiVel="24" RRGroup="1" Normalized="1"
-          NormalizedPeak="32.76699829101562" Duplicate="1" SampleEnd="519456"
+          NormalizedPeak="32.76699829101562" Duplicate="0" SampleEnd="519456"
           MonolithOffset="66654208" MonolithLength="520192" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS2Vel1.wav" Root="91"
           LoKey="91" HiKey="91" LoVel="0" HiVel="24" RRGroup="1" Normalized="1"
@@ -1608,7 +1608,7 @@
           MonolithOffset="67694592" MonolithLength="520192" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS2Vel2.wav" Root="90"
           LoKey="90" HiKey="90" LoVel="25" HiVel="49" RRGroup="1" Normalized="1"
-          NormalizedPeak="15.56627082824707" Duplicate="1" SampleEnd="530541"
+          NormalizedPeak="15.56627082824707" Duplicate="0" SampleEnd="530541"
           MonolithOffset="68214784" MonolithLength="532480" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS2Vel2.wav" Root="91"
           LoKey="91" HiKey="91" LoVel="25" HiVel="49" RRGroup="1" Normalized="1"
@@ -1620,7 +1620,7 @@
           MonolithOffset="69279744" MonolithLength="532480" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS2Vel3.wav" Root="90"
           LoKey="90" HiKey="90" LoVel="50" HiVel="74" RRGroup="1" Normalized="1"
-          NormalizedPeak="14.60856056213379" Duplicate="1" SampleEnd="286696"
+          NormalizedPeak="14.60856056213379" Duplicate="0" SampleEnd="286696"
           MonolithOffset="69812224" MonolithLength="286720" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS2Vel3.wav" Root="91"
           LoKey="91" HiKey="91" LoVel="50" HiVel="74" RRGroup="1" Normalized="1"
@@ -1632,7 +1632,7 @@
           MonolithOffset="70385664" MonolithLength="286720" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS2Vel4.wav" Root="90"
           LoKey="90" HiKey="90" LoVel="75" HiVel="102" RRGroup="1" Normalized="1"
-          NormalizedPeak="5.521907806396484" Duplicate="1" SampleEnd="303641"
+          NormalizedPeak="5.521907806396484" Duplicate="0" SampleEnd="303641"
           MonolithOffset="70672384" MonolithLength="307200" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS2Vel4.wav" Root="91"
           LoKey="91" HiKey="91" LoVel="75" HiVel="102" RRGroup="1" Normalized="1"
@@ -1644,7 +1644,7 @@
           MonolithOffset="71286784" MonolithLength="307200" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS2Vel5.wav" Root="90"
           LoKey="90" HiKey="90" LoVel="103" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="6.070211410522461" Duplicate="1" SampleEnd="298958"
+          NormalizedPeak="6.070211410522461" Duplicate="0" SampleEnd="298958"
           MonolithOffset="71593984" MonolithLength="299008" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS2Vel5.wav" Root="91"
           LoKey="91" HiKey="91" LoVel="103" HiVel="127" RRGroup="1" Normalized="1"
@@ -1656,7 +1656,7 @@
           MonolithOffset="72192000" MonolithLength="299008" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS3Vel1.wav" Root="87"
           LoKey="87" HiKey="87" LoVel="0" HiVel="24" RRGroup="1" Normalized="1"
-          NormalizedPeak="65.72913360595703" Duplicate="1" SampleEnd="195547"
+          NormalizedPeak="65.72913360595703" Duplicate="0" SampleEnd="195547"
           MonolithOffset="72491008" MonolithLength="196608" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS3Vel1.wav" Root="88"
           LoKey="88" HiKey="88" LoVel="0" HiVel="24" RRGroup="1" Normalized="1"
@@ -1668,7 +1668,7 @@
           MonolithOffset="72884224" MonolithLength="196608" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS3Vel2.wav" Root="87"
           LoKey="87" HiKey="87" LoVel="25" HiVel="49" RRGroup="1" Normalized="1"
-          NormalizedPeak="26.48641014099121" Duplicate="1" SampleEnd="297488"
+          NormalizedPeak="26.48641014099121" Duplicate="0" SampleEnd="297488"
           MonolithOffset="73080832" MonolithLength="299008" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS3Vel2.wav" Root="88"
           LoKey="88" HiKey="88" LoVel="25" HiVel="49" RRGroup="1" Normalized="1"
@@ -1680,7 +1680,7 @@
           MonolithOffset="73678848" MonolithLength="299008" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS3Vel3.wav" Root="87"
           LoKey="87" HiKey="87" LoVel="50" HiVel="74" RRGroup="1" Normalized="1"
-          NormalizedPeak="9.977771759033203" Duplicate="1" SampleEnd="278060"
+          NormalizedPeak="9.977771759033203" Duplicate="0" SampleEnd="278060"
           MonolithOffset="73977856" MonolithLength="278528" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS3Vel3.wav" Root="88"
           LoKey="88" HiKey="88" LoVel="50" HiVel="74" RRGroup="1" Normalized="1"
@@ -1692,7 +1692,7 @@
           MonolithOffset="74534912" MonolithLength="278528" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS3Vel4.wav" Root="87"
           LoKey="87" HiKey="87" LoVel="75" HiVel="99" RRGroup="1" Normalized="1"
-          NormalizedPeak="6.664022922515869" Duplicate="1" SampleEnd="302529"
+          NormalizedPeak="6.664022922515869" Duplicate="0" SampleEnd="302529"
           MonolithOffset="74813440" MonolithLength="303104" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS3Vel4.wav" Root="88"
           LoKey="88" HiKey="88" LoVel="75" HiVel="99" RRGroup="1" Normalized="1"
@@ -1704,7 +1704,7 @@
           MonolithOffset="75419648" MonolithLength="303104" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS3Vel5.wav" Root="87"
           LoKey="87" HiKey="87" LoVel="100" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="6.995516300201416" Duplicate="1" SampleEnd="558847"
+          NormalizedPeak="6.995516300201416" Duplicate="0" SampleEnd="558847"
           MonolithOffset="75722752" MonolithLength="561152" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS3Vel5.wav" Root="88"
           LoKey="88" HiKey="88" LoVel="100" HiVel="127" RRGroup="1" Normalized="1"
@@ -1716,7 +1716,7 @@
           MonolithOffset="76845056" MonolithLength="561152" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS4Vel1.wav" Root="93"
           LoKey="93" HiKey="93" LoVel="0" HiVel="24" RRGroup="1" Normalized="1"
-          NormalizedPeak="272.8629150390625" Duplicate="1" SampleEnd="268192"
+          NormalizedPeak="272.8629150390625" Duplicate="0" SampleEnd="268192"
           MonolithOffset="77406208" MonolithLength="270336" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS4Vel1.wav" Root="94"
           LoKey="94" HiKey="94" LoVel="0" HiVel="24" RRGroup="1" Normalized="1"
@@ -1728,7 +1728,7 @@
           MonolithOffset="77946880" MonolithLength="270336" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS4Vel2.wav" Root="93"
           LoKey="93" HiKey="93" LoVel="25" HiVel="49" RRGroup="1" Normalized="1"
-          NormalizedPeak="141.9541015625" Duplicate="1" SampleEnd="276293"
+          NormalizedPeak="141.9541015625" Duplicate="0" SampleEnd="276293"
           MonolithOffset="78217216" MonolithLength="278528" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS4Vel2.wav" Root="94"
           LoKey="94" HiKey="94" LoVel="25" HiVel="49" RRGroup="1" Normalized="1"
@@ -1740,7 +1740,7 @@
           MonolithOffset="78774272" MonolithLength="278528" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS4Vel3.wav" Root="93"
           LoKey="93" HiKey="93" LoVel="50" HiVel="74" RRGroup="1" Normalized="1"
-          NormalizedPeak="53.55725860595703" Duplicate="1" SampleEnd="286751"
+          NormalizedPeak="53.55725860595703" Duplicate="0" SampleEnd="286751"
           MonolithOffset="79052800" MonolithLength="290816" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS4Vel3.wav" Root="94"
           LoKey="94" HiKey="94" LoVel="50" HiVel="74" RRGroup="1" Normalized="1"
@@ -1752,7 +1752,7 @@
           MonolithOffset="79634432" MonolithLength="290816" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS4Vel4.wav" Root="93"
           LoKey="93" HiKey="93" LoVel="75" HiVel="99" RRGroup="1" Normalized="1"
-          NormalizedPeak="12.84980392456055" Duplicate="1" SampleEnd="323653"
+          NormalizedPeak="12.84980392456055" Duplicate="0" SampleEnd="323653"
           MonolithOffset="79925248" MonolithLength="327680" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS4Vel4.wav" Root="94"
           LoKey="94" HiKey="94" LoVel="75" HiVel="99" RRGroup="1" Normalized="1"
@@ -1764,7 +1764,7 @@
           MonolithOffset="80580608" MonolithLength="327680" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS4Vel5.wav" Root="93"
           LoKey="93" HiKey="93" LoVel="100" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="7.01949405670166" Duplicate="1" SampleEnd="317318"
+          NormalizedPeak="7.01949405670166" Duplicate="0" SampleEnd="317318"
           MonolithOffset="80908288" MonolithLength="319488" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/CRS4Vel5.wav" Root="94"
           LoKey="94" HiKey="94" LoVel="100" HiVel="127" RRGroup="1" Normalized="1"
@@ -1776,7 +1776,7 @@
           MonolithOffset="81547264" MonolithLength="319488" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel04.wav" Root="60"
           LoKey="60" HiKey="60" LoVel="0" HiVel="17" RRGroup="1" Normalized="1"
-          NormalizedPeak="14.5501766204834" Duplicate="1" SampleEnd="88435"
+          NormalizedPeak="14.5501766204834" Duplicate="0" SampleEnd="88435"
           MonolithOffset="81866752" MonolithLength="90112" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel04.wav" Root="61"
           LoKey="61" HiKey="61" LoVel="0" HiVel="17" RRGroup="1" Normalized="1"
@@ -1788,7 +1788,7 @@
           MonolithOffset="82046976" MonolithLength="90112" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel05.wav" Root="60"
           LoKey="60" HiKey="60" LoVel="18" HiVel="35" RRGroup="1" Normalized="1"
-          NormalizedPeak="11.54580688476562" Duplicate="1" SampleEnd="97668"
+          NormalizedPeak="11.54580688476562" Duplicate="0" SampleEnd="97668"
           MonolithOffset="82137088" MonolithLength="98304" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel05.wav" Root="61"
           LoKey="61" HiKey="61" LoVel="18" HiVel="35" RRGroup="1" Normalized="1"
@@ -1800,7 +1800,7 @@
           MonolithOffset="82333696" MonolithLength="98304" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel06.wav" Root="60"
           LoKey="60" HiKey="60" LoVel="36" HiVel="53" RRGroup="1" Normalized="1"
-          NormalizedPeak="10.17608737945557" Duplicate="1" SampleEnd="132585"
+          NormalizedPeak="10.17608737945557" Duplicate="0" SampleEnd="132585"
           MonolithOffset="82432000" MonolithLength="135168" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel06.wav" Root="61"
           LoKey="61" HiKey="61" LoVel="36" HiVel="53" RRGroup="1" Normalized="1"
@@ -1812,7 +1812,7 @@
           MonolithOffset="82702336" MonolithLength="135168" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel07.wav" Root="60"
           LoKey="60" HiKey="60" LoVel="54" HiVel="71" RRGroup="1" Normalized="1"
-          NormalizedPeak="6.488514423370361" Duplicate="1" SampleEnd="119841"
+          NormalizedPeak="6.488514423370361" Duplicate="0" SampleEnd="119841"
           MonolithOffset="82837504" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel07.wav" Root="61"
           LoKey="61" HiKey="61" LoVel="54" HiVel="71" RRGroup="1" Normalized="1"
@@ -1824,7 +1824,7 @@
           MonolithOffset="83083264" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel08.wav" Root="60"
           LoKey="60" HiKey="60" LoVel="72" HiVel="89" RRGroup="1" Normalized="1"
-          NormalizedPeak="5.693657398223877" Duplicate="1" SampleEnd="121111"
+          NormalizedPeak="5.693657398223877" Duplicate="0" SampleEnd="121111"
           MonolithOffset="83206144" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel08.wav" Root="61"
           LoKey="61" HiKey="61" LoVel="72" HiVel="89" RRGroup="1" Normalized="1"
@@ -1836,7 +1836,7 @@
           MonolithOffset="83451904" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel09.wav" Root="60"
           LoKey="60" HiKey="60" LoVel="90" HiVel="107" RRGroup="1" Normalized="1"
-          NormalizedPeak="5.089624404907227" Duplicate="1" SampleEnd="85880"
+          NormalizedPeak="5.089624404907227" Duplicate="0" SampleEnd="85880"
           MonolithOffset="83574784" MonolithLength="86016" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel09.wav" Root="61"
           LoKey="61" HiKey="61" LoVel="90" HiVel="107" RRGroup="1" Normalized="1"
@@ -1848,7 +1848,7 @@
           MonolithOffset="83746816" MonolithLength="86016" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel10.wav" Root="60"
           LoKey="60" HiKey="60" LoVel="108" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.896402359008789" Duplicate="1" SampleEnd="134177"
+          NormalizedPeak="2.896402359008789" Duplicate="0" SampleEnd="134177"
           MonolithOffset="83832832" MonolithLength="135168" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom1Vel10.wav" Root="61"
           LoKey="61" HiKey="61" LoVel="108" HiVel="127" RRGroup="1" Normalized="1"
@@ -1860,7 +1860,7 @@
           MonolithOffset="84103168" MonolithLength="135168" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel01.wav" Root="63"
           LoKey="63" HiKey="63" LoVel="0" HiVel="11" RRGroup="1" Normalized="1"
-          NormalizedPeak="33.35063552856445" Duplicate="1" SampleEnd="196572"
+          NormalizedPeak="33.35063552856445" Duplicate="0" SampleEnd="196572"
           MonolithOffset="84238336" MonolithLength="196608" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel01.wav" Root="64"
           LoKey="64" HiKey="64" LoVel="0" HiVel="11" RRGroup="1" Normalized="1"
@@ -1872,7 +1872,7 @@
           MonolithOffset="84631552" MonolithLength="196608" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel02.wav" Root="63"
           LoKey="63" HiKey="63" LoVel="12" HiVel="23" RRGroup="1" Normalized="1"
-          NormalizedPeak="25.20780754089355" Duplicate="1" SampleEnd="201908"
+          NormalizedPeak="25.20780754089355" Duplicate="0" SampleEnd="201908"
           MonolithOffset="84828160" MonolithLength="204800" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel02.wav" Root="64"
           LoKey="64" HiKey="64" LoVel="12" HiVel="23" RRGroup="1" Normalized="1"
@@ -1884,7 +1884,7 @@
           MonolithOffset="85237760" MonolithLength="204800" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel03.wav" Root="63"
           LoKey="63" HiKey="63" LoVel="24" HiVel="35" RRGroup="1" Normalized="1"
-          NormalizedPeak="11.30286312103271" Duplicate="1" SampleEnd="198067"
+          NormalizedPeak="11.30286312103271" Duplicate="0" SampleEnd="198067"
           MonolithOffset="85442560" MonolithLength="200704" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel03.wav" Root="64"
           LoKey="64" HiKey="64" LoVel="24" HiVel="35" RRGroup="1" Normalized="1"
@@ -1896,7 +1896,7 @@
           MonolithOffset="85843968" MonolithLength="200704" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel04.wav" Root="63"
           LoKey="63" HiKey="63" LoVel="36" HiVel="47" RRGroup="1" Normalized="1"
-          NormalizedPeak="19.80552291870117" Duplicate="1" SampleEnd="188048"
+          NormalizedPeak="19.80552291870117" Duplicate="0" SampleEnd="188048"
           MonolithOffset="86044672" MonolithLength="188416" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel04.wav" Root="64"
           LoKey="64" HiKey="64" LoVel="36" HiVel="47" RRGroup="1" Normalized="1"
@@ -1908,7 +1908,7 @@
           MonolithOffset="86421504" MonolithLength="188416" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel05.wav" Root="63"
           LoKey="63" HiKey="63" LoVel="48" HiVel="59" RRGroup="1" Normalized="1"
-          NormalizedPeak="5.513545513153076" Duplicate="1" SampleEnd="187308"
+          NormalizedPeak="5.513545513153076" Duplicate="0" SampleEnd="187308"
           MonolithOffset="86609920" MonolithLength="188416" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel05.wav" Root="64"
           LoKey="64" HiKey="64" LoVel="48" HiVel="59" RRGroup="1" Normalized="1"
@@ -1920,7 +1920,7 @@
           MonolithOffset="86986752" MonolithLength="188416" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel06.wav" Root="63"
           LoKey="63" HiKey="63" LoVel="60" HiVel="71" RRGroup="1" Normalized="1"
-          NormalizedPeak="6.860762596130371" Duplicate="1" SampleEnd="181276"
+          NormalizedPeak="6.860762596130371" Duplicate="0" SampleEnd="181276"
           MonolithOffset="87175168" MonolithLength="184320" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel06.wav" Root="64"
           LoKey="64" HiKey="64" LoVel="60" HiVel="71" RRGroup="1" Normalized="1"
@@ -1932,7 +1932,7 @@
           MonolithOffset="87543808" MonolithLength="184320" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel07.wav" Root="63"
           LoKey="63" HiKey="63" LoVel="72" HiVel="83" RRGroup="1" Normalized="1"
-          NormalizedPeak="5.196986675262451" Duplicate="1" SampleEnd="184308"
+          NormalizedPeak="5.196986675262451" Duplicate="0" SampleEnd="184308"
           MonolithOffset="87728128" MonolithLength="184320" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel07.wav" Root="64"
           LoKey="64" HiKey="64" LoVel="72" HiVel="83" RRGroup="1" Normalized="1"
@@ -1944,7 +1944,7 @@
           MonolithOffset="88096768" MonolithLength="184320" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel08.wav" Root="63"
           LoKey="63" HiKey="63" LoVel="84" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="4.748152732849121" Duplicate="1" SampleEnd="161946"
+          NormalizedPeak="4.748152732849121" Duplicate="0" SampleEnd="161946"
           MonolithOffset="88281088" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel08.wav" Root="64"
           LoKey="64" HiKey="64" LoVel="84" HiVel="95" RRGroup="1" Normalized="1"
@@ -1956,7 +1956,7 @@
           MonolithOffset="88608768" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel09.wav" Root="63"
           LoKey="63" HiKey="63" LoVel="96" HiVel="115" RRGroup="1" Normalized="1"
-          NormalizedPeak="4.748152732849121" Duplicate="1" SampleEnd="161946"
+          NormalizedPeak="4.748152732849121" Duplicate="0" SampleEnd="161946"
           MonolithOffset="88772608" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel09.wav" Root="64"
           LoKey="64" HiKey="64" LoVel="96" HiVel="115" RRGroup="1" Normalized="1"
@@ -1968,7 +1968,7 @@
           MonolithOffset="89100288" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel10.wav" Root="63"
           LoKey="63" HiKey="63" LoVel="116" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.331334114074707" Duplicate="1" SampleEnd="157562"
+          NormalizedPeak="3.331334114074707" Duplicate="0" SampleEnd="157562"
           MonolithOffset="89264128" MonolithLength="159744" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/LoTom2Vel10.wav" Root="64"
           LoKey="64" HiKey="64" LoVel="116" HiVel="127" RRGroup="1" Normalized="1"
@@ -1980,7 +1980,7 @@
           MonolithOffset="89583616" MonolithLength="159744" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel01.wav" Root="66"
           LoKey="66" HiKey="66" LoVel="0" HiVel="11" RRGroup="1" Normalized="1"
-          NormalizedPeak="29.29057312011719" Duplicate="1" SampleEnd="167560"
+          NormalizedPeak="29.29057312011719" Duplicate="0" SampleEnd="167560"
           MonolithOffset="89743360" MonolithLength="167936" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel01.wav" Root="67"
           LoKey="67" HiKey="67" LoVel="0" HiVel="11" RRGroup="1" Normalized="1"
@@ -1996,7 +1996,7 @@
           MonolithOffset="90247168" MonolithLength="167936" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel02.wav" Root="66"
           LoKey="66" HiKey="66" LoVel="12" HiVel="23" RRGroup="1" Normalized="1"
-          NormalizedPeak="14.89409065246582" Duplicate="1" SampleEnd="163383"
+          NormalizedPeak="14.89409065246582" Duplicate="0" SampleEnd="163383"
           MonolithOffset="90415104" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel02.wav" Root="67"
           LoKey="67" HiKey="67" LoVel="12" HiVel="23" RRGroup="1" Normalized="1"
@@ -2012,7 +2012,7 @@
           MonolithOffset="90906624" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel03.wav" Root="66"
           LoKey="66" HiKey="66" LoVel="24" HiVel="35" RRGroup="1" Normalized="1"
-          NormalizedPeak="6.491085052490234" Duplicate="1" SampleEnd="170222"
+          NormalizedPeak="6.491085052490234" Duplicate="0" SampleEnd="170222"
           MonolithOffset="91070464" MonolithLength="172032" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel03.wav" Root="67"
           LoKey="67" HiKey="67" LoVel="24" HiVel="35" RRGroup="1" Normalized="1"
@@ -2028,7 +2028,7 @@
           MonolithOffset="91586560" MonolithLength="172032" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel04.wav" Root="66"
           LoKey="66" HiKey="66" LoVel="36" HiVel="47" RRGroup="1" Normalized="1"
-          NormalizedPeak="4.506533145904541" Duplicate="1" SampleEnd="139296"
+          NormalizedPeak="4.506533145904541" Duplicate="0" SampleEnd="139296"
           MonolithOffset="91758592" MonolithLength="143360" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel04.wav" Root="67"
           LoKey="67" HiKey="67" LoVel="36" HiVel="47" RRGroup="1" Normalized="1"
@@ -2044,7 +2044,7 @@
           MonolithOffset="92188672" MonolithLength="143360" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel05.wav" Root="66"
           LoKey="66" HiKey="66" LoVel="48" HiVel="59" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.682926893234253" Duplicate="1" SampleEnd="161578"
+          NormalizedPeak="3.682926893234253" Duplicate="0" SampleEnd="161578"
           MonolithOffset="92332032" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel05.wav" Root="67"
           LoKey="67" HiKey="67" LoVel="48" HiVel="59" RRGroup="1" Normalized="1"
@@ -2060,7 +2060,7 @@
           MonolithOffset="92823552" MonolithLength="163840" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel06.wav" Root="66"
           LoKey="66" HiKey="66" LoVel="60" HiVel="71" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.031174898147583" Duplicate="1" SampleEnd="133283"
+          NormalizedPeak="3.031174898147583" Duplicate="0" SampleEnd="133283"
           MonolithOffset="92987392" MonolithLength="135168" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel06.wav" Root="67"
           LoKey="67" HiKey="67" LoVel="60" HiVel="71" RRGroup="1" Normalized="1"
@@ -2076,7 +2076,7 @@
           MonolithOffset="93392896" MonolithLength="135168" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel07.wav" Root="66"
           LoKey="66" HiKey="66" LoVel="72" HiVel="83" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.231780290603638" Duplicate="1" SampleEnd="138610"
+          NormalizedPeak="2.231780290603638" Duplicate="0" SampleEnd="138610"
           MonolithOffset="93528064" MonolithLength="139264" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel07.wav" Root="67"
           LoKey="67" HiKey="67" LoVel="72" HiVel="83" RRGroup="1" Normalized="1"
@@ -2092,7 +2092,7 @@
           MonolithOffset="93945856" MonolithLength="139264" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel08.wav" Root="66"
           LoKey="66" HiKey="66" LoVel="84" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.403153657913208" Duplicate="1" SampleEnd="133788"
+          NormalizedPeak="2.403153657913208" Duplicate="0" SampleEnd="133788"
           MonolithOffset="94085120" MonolithLength="135168" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel08.wav" Root="67"
           LoKey="67" HiKey="67" LoVel="84" HiVel="95" RRGroup="1" Normalized="1"
@@ -2108,7 +2108,7 @@
           MonolithOffset="94490624" MonolithLength="135168" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel09.wav" Root="66"
           LoKey="66" HiKey="66" LoVel="96" HiVel="115" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.412353754043579" Duplicate="1" SampleEnd="137557"
+          NormalizedPeak="2.412353754043579" Duplicate="0" SampleEnd="137557"
           MonolithOffset="94625792" MonolithLength="139264" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel09.wav" Root="67"
           LoKey="67" HiKey="67" LoVel="96" HiVel="115" RRGroup="1" Normalized="1"
@@ -2124,7 +2124,7 @@
           MonolithOffset="95043584" MonolithLength="139264" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel10.wav" Root="66"
           LoKey="66" HiKey="66" LoVel="116" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="1.57928478717804" Duplicate="1" SampleEnd="151020"
+          NormalizedPeak="1.57928478717804" Duplicate="0" SampleEnd="151020"
           MonolithOffset="95182848" MonolithLength="151552" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/MidTom1Vel10.wav" Root="67"
           LoKey="67" HiKey="67" LoVel="116" HiVel="127" RRGroup="1" Normalized="1"
@@ -2140,7 +2140,7 @@
           MonolithOffset="95637504" MonolithLength="151552" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel01.wav" Root="70"
           LoKey="70" HiKey="70" LoVel="0" HiVel="10" RRGroup="1" Normalized="1"
-          NormalizedPeak="29.50320625305176" Duplicate="1" SampleEnd="106081"
+          NormalizedPeak="29.50320625305176" Duplicate="0" SampleEnd="106081"
           MonolithOffset="95789056" MonolithLength="106496" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel01.wav" Root="71"
           LoKey="71" HiKey="71" LoVel="0" HiVel="10" RRGroup="1" Normalized="1"
@@ -2148,7 +2148,7 @@
           MonolithOffset="95895552" MonolithLength="106496" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel02.wav" Root="70"
           LoKey="70" HiKey="70" LoVel="11" HiVel="21" RRGroup="1" Normalized="1"
-          NormalizedPeak="13.84326171875" Duplicate="1" SampleEnd="145243"
+          NormalizedPeak="13.84326171875" Duplicate="0" SampleEnd="145243"
           MonolithOffset="96002048" MonolithLength="147456" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel02.wav" Root="71"
           LoKey="71" HiKey="71" LoVel="11" HiVel="21" RRGroup="1" Normalized="1"
@@ -2156,7 +2156,7 @@
           MonolithOffset="96149504" MonolithLength="147456" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel03.wav" Root="70"
           LoKey="70" HiKey="70" LoVel="22" HiVel="32" RRGroup="1" Normalized="1"
-          NormalizedPeak="9.178431510925293" Duplicate="1" SampleEnd="172674"
+          NormalizedPeak="9.178431510925293" Duplicate="0" SampleEnd="172674"
           MonolithOffset="96296960" MonolithLength="176128" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel03.wav" Root="71"
           LoKey="71" HiKey="71" LoVel="22" HiVel="32" RRGroup="1" Normalized="1"
@@ -2164,7 +2164,7 @@
           MonolithOffset="96473088" MonolithLength="176128" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel04.wav" Root="70"
           LoKey="70" HiKey="70" LoVel="33" HiVel="43" RRGroup="1" Normalized="1"
-          NormalizedPeak="7.09703254699707" Duplicate="1" SampleEnd="170693"
+          NormalizedPeak="7.09703254699707" Duplicate="0" SampleEnd="170693"
           MonolithOffset="96649216" MonolithLength="172032" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel04.wav" Root="71"
           LoKey="71" HiKey="71" LoVel="33" HiVel="43" RRGroup="1" Normalized="1"
@@ -2172,7 +2172,7 @@
           MonolithOffset="96821248" MonolithLength="172032" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel05.wav" Root="70"
           LoKey="70" HiKey="70" LoVel="44" HiVel="54" RRGroup="1" Normalized="1"
-          NormalizedPeak="4.749528884887695" Duplicate="1" SampleEnd="166270"
+          NormalizedPeak="4.749528884887695" Duplicate="0" SampleEnd="166270"
           MonolithOffset="96993280" MonolithLength="167936" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel05.wav" Root="71"
           LoKey="71" HiKey="71" LoVel="44" HiVel="54" RRGroup="1" Normalized="1"
@@ -2180,7 +2180,7 @@
           MonolithOffset="97161216" MonolithLength="167936" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel06.wav" Root="70"
           LoKey="70" HiKey="70" LoVel="55" HiVel="65" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.546979665756226" Duplicate="1" SampleEnd="176720"
+          NormalizedPeak="3.546979665756226" Duplicate="0" SampleEnd="176720"
           MonolithOffset="97329152" MonolithLength="180224" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel06.wav" Root="71"
           LoKey="71" HiKey="71" LoVel="55" HiVel="65" RRGroup="1" Normalized="1"
@@ -2188,7 +2188,7 @@
           MonolithOffset="97509376" MonolithLength="180224" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel07.wav" Root="70"
           LoKey="70" HiKey="70" LoVel="66" HiVel="76" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.439021825790405" Duplicate="1" SampleEnd="172366"
+          NormalizedPeak="3.439021825790405" Duplicate="0" SampleEnd="172366"
           MonolithOffset="97689600" MonolithLength="176128" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel07.wav" Root="71"
           LoKey="71" HiKey="71" LoVel="66" HiVel="76" RRGroup="1" Normalized="1"
@@ -2196,7 +2196,7 @@
           MonolithOffset="97865728" MonolithLength="176128" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel08.wav" Root="70"
           LoKey="70" HiKey="70" LoVel="77" HiVel="87" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.861996650695801" Duplicate="1" SampleEnd="171697"
+          NormalizedPeak="2.861996650695801" Duplicate="0" SampleEnd="171697"
           MonolithOffset="98041856" MonolithLength="172032" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel08.wav" Root="71"
           LoKey="71" HiKey="71" LoVel="77" HiVel="87" RRGroup="1" Normalized="1"
@@ -2204,7 +2204,7 @@
           MonolithOffset="98213888" MonolithLength="172032" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel09.wav" Root="70"
           LoKey="70" HiKey="70" LoVel="88" HiVel="98" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.756772756576538" Duplicate="1" SampleEnd="139128"
+          NormalizedPeak="2.756772756576538" Duplicate="0" SampleEnd="139128"
           MonolithOffset="98385920" MonolithLength="139264" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel09.wav" Root="71"
           LoKey="71" HiKey="71" LoVel="88" HiVel="98" RRGroup="1" Normalized="1"
@@ -2212,7 +2212,7 @@
           MonolithOffset="98525184" MonolithLength="139264" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel10.wav" Root="70"
           LoKey="70" HiKey="70" LoVel="99" HiVel="109" RRGroup="1" Normalized="1"
-          NormalizedPeak="1.979998707771301" Duplicate="1" SampleEnd="159369"
+          NormalizedPeak="1.979998707771301" Duplicate="0" SampleEnd="159369"
           MonolithOffset="98664448" MonolithLength="159744" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel10.wav" Root="71"
           LoKey="71" HiKey="71" LoVel="99" HiVel="109" RRGroup="1" Normalized="1"
@@ -2220,7 +2220,7 @@
           MonolithOffset="98824192" MonolithLength="159744" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel11.wav" Root="70"
           LoKey="70" HiKey="70" LoVel="110" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="1.908275604248047" Duplicate="1" SampleEnd="150599"
+          NormalizedPeak="1.908275604248047" Duplicate="0" SampleEnd="150599"
           MonolithOffset="98983936" MonolithLength="151552" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/HiTom1Vel11.wav" Root="71"
           LoKey="71" HiKey="71" LoVel="110" HiVel="127" RRGroup="1" Normalized="1"
@@ -2228,7 +2228,7 @@
           MonolithOffset="99135488" MonolithLength="151552" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll1.wav" Root="38" LoKey="38"
           HiKey="38" LoVel="0" HiVel="19" RRGroup="1" Volume="-6" Normalized="1"
-          NormalizedPeak="60.94060134887695" Duplicate="1" SampleEnd="53559"
+          NormalizedPeak="60.94060134887695" Duplicate="0" SampleEnd="53559"
           MonolithOffset="99287040" MonolithLength="57344" SampleRate="44100.0"
           LoopEnabled="1" LoopStart="19464"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll1.wav" Root="39" LoKey="39"
@@ -2237,7 +2237,7 @@
           MonolithOffset="99344384" MonolithLength="57344" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll2.wav" Root="38" LoKey="38"
           HiKey="38" LoVel="20" HiVel="37" RRGroup="1" Volume="-6" Normalized="1"
-          NormalizedPeak="60.0334358215332" Duplicate="1" SampleEnd="45503"
+          NormalizedPeak="60.0334358215332" Duplicate="0" SampleEnd="45503"
           MonolithOffset="99401728" MonolithLength="49152" SampleRate="44100.0"
           LoopEnabled="1" LoopEnd="30797"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll2.wav" Root="39" LoKey="39"
@@ -2246,7 +2246,7 @@
           MonolithOffset="99450880" MonolithLength="49152" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll3.wav" Root="38" LoKey="38"
           HiKey="38" LoVel="38" HiVel="55" RRGroup="1" Volume="-6" Normalized="1"
-          NormalizedPeak="30.10807991027832" Duplicate="1" SampleEnd="54011"
+          NormalizedPeak="30.10807991027832" Duplicate="0" SampleEnd="54011"
           MonolithOffset="99500032" MonolithLength="57344" SampleRate="44100.0"
           LoopEnabled="1"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll3.wav" Root="39" LoKey="39"
@@ -2255,7 +2255,7 @@
           MonolithOffset="99557376" MonolithLength="57344" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll4.wav" Root="38" LoKey="38"
           HiKey="38" LoVel="56" HiVel="73" RRGroup="1" Volume="-6" Normalized="1"
-          NormalizedPeak="23.7765064239502" Duplicate="1" SampleEnd="45503"
+          NormalizedPeak="23.7765064239502" Duplicate="0" SampleEnd="45503"
           MonolithOffset="99614720" MonolithLength="49152" SampleRate="44100.0"
           LoopEnabled="1"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll4.wav" Root="39" LoKey="39"
@@ -2264,7 +2264,7 @@
           MonolithOffset="99663872" MonolithLength="49152" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll5.wav" Root="38" LoKey="38"
           HiKey="38" LoVel="74" HiVel="91" RRGroup="1" Volume="-6" Normalized="1"
-          NormalizedPeak="12.03783988952637" Duplicate="1" SampleEnd="28691"
+          NormalizedPeak="12.03783988952637" Duplicate="0" SampleEnd="28691"
           MonolithOffset="99713024" MonolithLength="32768" SampleRate="44100.0"
           LoopEnabled="1" LoopEnd="28026"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll5.wav" Root="39" LoKey="39"
@@ -2273,7 +2273,7 @@
           MonolithOffset="99745792" MonolithLength="32768" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll6.wav" Root="38" LoKey="38"
           HiKey="38" LoVel="92" HiVel="109" RRGroup="1" Volume="-6" Normalized="1"
-          NormalizedPeak="12.03783988952637" Duplicate="1" SampleEnd="28691"
+          NormalizedPeak="12.03783988952637" Duplicate="0" SampleEnd="28691"
           MonolithOffset="99778560" MonolithLength="32768" SampleRate="44100.0"
           LoopEnabled="1"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll6.wav" Root="39" LoKey="39"
@@ -2282,7 +2282,7 @@
           MonolithOffset="99811328" MonolithLength="32768" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll7.wav" Root="38" LoKey="38"
           HiKey="38" LoVel="110" HiVel="127" RRGroup="1" Volume="-6" Normalized="1"
-          NormalizedPeak="10.39892101287842" Duplicate="1" SampleEnd="24648"
+          NormalizedPeak="10.39892101287842" Duplicate="0" SampleEnd="24648"
           MonolithOffset="99844096" MonolithLength="28672" SampleRate="44100.0"
           LoopStart="1322" LoopEnabled="1" LoopEnd="24648"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Roll7.wav" Root="39" LoKey="39"
@@ -2291,7 +2291,7 @@
           MonolithOffset="99872768" MonolithLength="28672" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel1R1.wav" Root="27"
           LoKey="24" HiKey="24" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="84.82679748535156" Duplicate="1" SampleEnd="60754"
+          NormalizedPeak="84.82679748535156" Duplicate="0" SampleEnd="60754"
           MonolithOffset="99901440" MonolithLength="61440" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel1R1.wav" Root="27"
           LoKey="25" HiKey="25" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -2299,7 +2299,7 @@
           MonolithOffset="99962880" MonolithLength="61440" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel2R1.wav" Root="27"
           LoKey="24" HiKey="24" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="9.364675521850586" Duplicate="1" SampleEnd="68977"
+          NormalizedPeak="9.364675521850586" Duplicate="0" SampleEnd="68977"
           MonolithOffset="100024320" MonolithLength="69632" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel2R1.wav" Root="27"
           LoKey="25" HiKey="25" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -2307,7 +2307,7 @@
           MonolithOffset="100093952" MonolithLength="69632" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel3R1.wav" Root="27"
           LoKey="24" HiKey="24" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.214657068252563" Duplicate="1" SampleEnd="114895"
+          NormalizedPeak="3.214657068252563" Duplicate="0" SampleEnd="114895"
           MonolithOffset="100163584" MonolithLength="118784" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel3R1.wav" Root="27"
           LoKey="25" HiKey="25" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -2315,7 +2315,7 @@
           MonolithOffset="100282368" MonolithLength="118784" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel4R1.wav" Root="27"
           LoKey="24" HiKey="24" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.223149299621582" Duplicate="1" SampleEnd="118325"
+          NormalizedPeak="2.223149299621582" Duplicate="0" SampleEnd="118325"
           MonolithOffset="100401152" MonolithLength="118784" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel4R1.wav" Root="27"
           LoKey="25" HiKey="25" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -2323,7 +2323,7 @@
           MonolithOffset="100519936" MonolithLength="118784" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel1R2.wav" Root="26"
           LoKey="26" HiKey="26" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="25.71347236633301" Duplicate="1" SampleEnd="64882"
+          NormalizedPeak="25.71347236633301" Duplicate="0" SampleEnd="64882"
           MonolithOffset="100638720" MonolithLength="65536" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel1R2.wav" Root="27"
           LoKey="27" HiKey="27" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -2331,7 +2331,7 @@
           MonolithOffset="100704256" MonolithLength="65536" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel2R2.wav" Root="26"
           LoKey="26" HiKey="26" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="8.142892837524414" Duplicate="1" SampleEnd="75191"
+          NormalizedPeak="8.142892837524414" Duplicate="0" SampleEnd="75191"
           MonolithOffset="100769792" MonolithLength="77824" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel2R2.wav" Root="27"
           LoKey="27" HiKey="27" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -2339,7 +2339,7 @@
           MonolithOffset="100847616" MonolithLength="77824" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel3R2.wav" Root="26"
           LoKey="26" HiKey="26" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.468141555786133" Duplicate="1" SampleEnd="125044"
+          NormalizedPeak="3.468141555786133" Duplicate="0" SampleEnd="125044"
           MonolithOffset="100925440" MonolithLength="126976" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel3R2.wav" Root="27"
           LoKey="27" HiKey="27" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -2347,7 +2347,7 @@
           MonolithOffset="101052416" MonolithLength="126976" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel4R2.wav" Root="26"
           LoKey="26" HiKey="26" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="1.657074928283691" Duplicate="1" SampleEnd="119173"
+          NormalizedPeak="1.657074928283691" Duplicate="0" SampleEnd="119173"
           MonolithOffset="101179392" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR1Vel4R2.wav" Root="27"
           LoKey="27" HiKey="27" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -2355,7 +2355,7 @@
           MonolithOffset="101302272" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel1R1.wav" Root="31"
           LoKey="28" HiKey="28" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="116.9206085205078" Duplicate="1" SampleEnd="74884"
+          NormalizedPeak="116.9206085205078" Duplicate="0" SampleEnd="74884"
           MonolithOffset="101425152" MonolithLength="77824" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel1R1.wav" Root="29"
           LoKey="29" HiKey="29" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -2363,7 +2363,7 @@
           MonolithOffset="101502976" MonolithLength="77824" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel2R1.wav" Root="31"
           LoKey="28" HiKey="28" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="30.26799774169922" Duplicate="1" SampleEnd="78676"
+          NormalizedPeak="30.26799774169922" Duplicate="0" SampleEnd="78676"
           MonolithOffset="101580800" MonolithLength="81920" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel2R1.wav" Root="29"
           LoKey="29" HiKey="29" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -2371,7 +2371,7 @@
           MonolithOffset="101662720" MonolithLength="81920" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel3R1.wav" Root="31"
           LoKey="28" HiKey="28" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="7.241325855255127" Duplicate="1" SampleEnd="106268"
+          NormalizedPeak="7.241325855255127" Duplicate="0" SampleEnd="106268"
           MonolithOffset="101744640" MonolithLength="106496" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel3R1.wav" Root="29"
           LoKey="29" HiKey="29" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -2379,7 +2379,7 @@
           MonolithOffset="101851136" MonolithLength="106496" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel4R1.wav" Root="31"
           LoKey="28" HiKey="28" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="2.916251420974731" Duplicate="1" SampleEnd="80985"
+          NormalizedPeak="2.916251420974731" Duplicate="0" SampleEnd="80985"
           MonolithOffset="101957632" MonolithLength="81920" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel4R1.wav" Root="29"
           LoKey="29" HiKey="29" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -2387,7 +2387,7 @@
           MonolithOffset="102039552" MonolithLength="81920" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel1R2.wav" Root="30"
           LoKey="30" HiKey="30" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="116.0150527954102" Duplicate="1" SampleEnd="68626"
+          NormalizedPeak="116.0150527954102" Duplicate="0" SampleEnd="68626"
           MonolithOffset="102121472" MonolithLength="69632" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel1R2.wav" Root="31"
           LoKey="31" HiKey="31" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -2395,7 +2395,7 @@
           MonolithOffset="102191104" MonolithLength="69632" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel2R2.wav" Root="30"
           LoKey="30" HiKey="30" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="30.87949180603027" Duplicate="1" SampleEnd="65599"
+          NormalizedPeak="30.87949180603027" Duplicate="0" SampleEnd="65599"
           MonolithOffset="102260736" MonolithLength="69632" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel2R2.wav" Root="31"
           LoKey="31" HiKey="31" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -2403,7 +2403,7 @@
           MonolithOffset="102330368" MonolithLength="69632" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel3R2.wav" Root="30"
           LoKey="30" HiKey="30" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="5.932826519012451" Duplicate="1" SampleEnd="97439"
+          NormalizedPeak="5.932826519012451" Duplicate="0" SampleEnd="97439"
           MonolithOffset="102400000" MonolithLength="98304" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel3R2.wav" Root="31"
           LoKey="31" HiKey="31" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -2411,7 +2411,7 @@
           MonolithOffset="102498304" MonolithLength="98304" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel4R2.wav" Root="30"
           LoKey="30" HiKey="30" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.331334114074707" Duplicate="1" SampleEnd="87038"
+          NormalizedPeak="3.331334114074707" Duplicate="0" SampleEnd="87038"
           MonolithOffset="102596608" MonolithLength="90112" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR2M1Vel4R2.wav" Root="31"
           LoKey="31" HiKey="31" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -2419,7 +2419,7 @@
           MonolithOffset="102686720" MonolithLength="90112" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel1R1.wav" Root="32"
           LoKey="32" HiKey="32" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="151.3159637451172" Duplicate="1" SampleEnd="59909"
+          NormalizedPeak="151.3159637451172" Duplicate="0" SampleEnd="59909"
           MonolithOffset="102776832" MonolithLength="61440" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel1R1.wav" Root="33"
           LoKey="33" HiKey="33" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -2427,7 +2427,7 @@
           MonolithOffset="102838272" MonolithLength="61440" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel2R1.wav" Root="32"
           LoKey="32" HiKey="32" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="9.38076114654541" Duplicate="1" SampleEnd="76486"
+          NormalizedPeak="9.38076114654541" Duplicate="0" SampleEnd="76486"
           MonolithOffset="102899712" MonolithLength="77824" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel2R1.wav" Root="33"
           LoKey="33" HiKey="33" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -2435,7 +2435,7 @@
           MonolithOffset="102977536" MonolithLength="77824" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel3R1.wav" Root="32"
           LoKey="32" HiKey="32" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="5.264620780944824" Duplicate="1" SampleEnd="122635"
+          NormalizedPeak="5.264620780944824" Duplicate="0" SampleEnd="122635"
           MonolithOffset="103055360" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel3R1.wav" Root="33"
           LoKey="33" HiKey="33" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -2443,7 +2443,7 @@
           MonolithOffset="103178240" MonolithLength="122880" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel4R1.wav" Root="32"
           LoKey="32" HiKey="32" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.482146739959717" Duplicate="1" SampleEnd="112494"
+          NormalizedPeak="3.482146739959717" Duplicate="0" SampleEnd="112494"
           MonolithOffset="103301120" MonolithLength="114688" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel4R1.wav" Root="33"
           LoKey="33" HiKey="33" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -2451,7 +2451,7 @@
           MonolithOffset="103415808" MonolithLength="114688" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel1R2.wav" Root="34"
           LoKey="34" HiKey="34" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
-          NormalizedPeak="91.33260345458984" Duplicate="1" SampleEnd="59571"
+          NormalizedPeak="91.33260345458984" Duplicate="0" SampleEnd="59571"
           MonolithOffset="103530496" MonolithLength="61440" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel1R2.wav" Root="35"
           LoKey="35" HiKey="35" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
@@ -2459,7 +2459,7 @@
           MonolithOffset="103591936" MonolithLength="61440" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel2R2.wav" Root="34"
           LoKey="34" HiKey="34" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
-          NormalizedPeak="9.282436370849609" Duplicate="1" SampleEnd="137353"
+          NormalizedPeak="9.282436370849609" Duplicate="0" SampleEnd="137353"
           MonolithOffset="103653376" MonolithLength="139264" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel2R2.wav" Root="35"
           LoKey="35" HiKey="35" LoVel="32" HiVel="63" RRGroup="1" Normalized="1"
@@ -2467,7 +2467,7 @@
           MonolithOffset="103792640" MonolithLength="139264" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel3R2.wav" Root="34"
           LoKey="34" HiKey="34" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
-          NormalizedPeak="4.965449333190918" Duplicate="1" SampleEnd="130159"
+          NormalizedPeak="4.965449333190918" Duplicate="0" SampleEnd="130159"
           MonolithOffset="103931904" MonolithLength="131072" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel3R2.wav" Root="35"
           LoKey="35" HiKey="35" LoVel="64" HiVel="95" RRGroup="1" Normalized="1"
@@ -2475,7 +2475,7 @@
           MonolithOffset="104062976" MonolithLength="131072" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel4R2.wav" Root="34"
           LoKey="34" HiKey="34" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
-          NormalizedPeak="3.179409980773926" Duplicate="1" SampleEnd="109337"
+          NormalizedPeak="3.179409980773926" Duplicate="0" SampleEnd="109337"
           MonolithOffset="104194048" MonolithLength="110592" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/SNR3Vel4R2.wav" Root="35"
           LoKey="35" HiKey="35" LoVel="96" HiVel="127" RRGroup="1" Normalized="1"
@@ -2483,7 +2483,7 @@
           MonolithOffset="104304640" MonolithLength="110592" SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Buzzroll1.wav" Root="36"
           LoKey="36" HiKey="36" LoVel="0" HiVel="22" RRGroup="1" Volume="-6"
-          Normalized="1" NormalizedPeak="108.2423858642578" Duplicate="1"
+          Normalized="1" NormalizedPeak="108.2423858642578" Duplicate="0"
           SampleEnd="119738" MonolithOffset="104415232" MonolithLength="122880"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Buzzroll1.wav" Root="37"
@@ -2493,7 +2493,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Buzzroll2.wav" Root="36"
           LoKey="36" HiKey="36" LoVel="23" HiVel="43" RRGroup="1" Volume="-6"
-          Normalized="1" NormalizedPeak="83.35008239746094" Duplicate="1"
+          Normalized="1" NormalizedPeak="83.35008239746094" Duplicate="0"
           SampleEnd="107003" MonolithOffset="104660992" MonolithLength="110592"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Buzzroll2.wav" Root="37"
@@ -2503,7 +2503,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Buzzroll3.wav" Root="36"
           LoKey="36" HiKey="36" LoVel="44" HiVel="64" RRGroup="1" Volume="-6"
-          Normalized="1" NormalizedPeak="55.00991439819336" Duplicate="1"
+          Normalized="1" NormalizedPeak="55.00991439819336" Duplicate="0"
           SampleEnd="130426" MonolithOffset="104882176" MonolithLength="131072"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Buzzroll3.wav" Root="37"
@@ -2513,7 +2513,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Buzzroll4.wav" Root="36"
           LoKey="36" HiKey="36" LoVel="65" HiVel="98" RRGroup="1" Volume="-6"
-          Normalized="1" NormalizedPeak="27.41721534729004" Duplicate="1"
+          Normalized="1" NormalizedPeak="27.41721534729004" Duplicate="0"
           SampleEnd="128077" MonolithOffset="105144320" MonolithLength="131072"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Buzzroll4.wav" Root="37"
@@ -2523,7 +2523,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Buzzroll6.wav" Root="36"
           LoKey="36" HiKey="36" LoVel="99" HiVel="127" RRGroup="1" Volume="-6"
-          Normalized="1" NormalizedPeak="15.32600593566895" Duplicate="1"
+          Normalized="1" NormalizedPeak="15.32600593566895" Duplicate="0"
           SampleEnd="118122" MonolithOffset="105406464" MonolithLength="118784"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Buzzroll6.wav" Root="37"
@@ -2533,7 +2533,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/EndRoll1.wav" Root="40"
           LoKey="40" HiKey="40" LoVel="0" HiVel="127" RRGroup="1" Volume="-6"
-          Normalized="1" NormalizedPeak="9.394208908081055" Duplicate="1"
+          Normalized="1" NormalizedPeak="9.394208908081055" Duplicate="0"
           SampleEnd="46094" MonolithOffset="105644032" MonolithLength="49152"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/EndRoll1.wav" Root="41"
@@ -2543,11 +2543,11 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Swell1.wav" Root="47" LoKey="47"
           HiKey="47" LoVel="0" HiVel="127" RRGroup="1" Normalized="1" NormalizedPeak="2.834515571594238"
-          Duplicate="1" SampleEnd="234637" MonolithOffset="105742336" MonolithLength="237568"
+          Duplicate="0" SampleEnd="234637" MonolithOffset="105742336" MonolithLength="237568"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Swell2.wav" Root="45" LoKey="45"
           HiKey="45" LoVel="0" HiVel="127" RRGroup="1" Normalized="1" NormalizedPeak="3.27702784538269"
-          Duplicate="1" SampleEnd="156988" MonolithOffset="105979904" MonolithLength="159744"
+          Duplicate="0" SampleEnd="156988" MonolithOffset="105979904" MonolithLength="159744"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Swell2.wav" Root="46" LoKey="46"
           HiKey="46" LoVel="0" HiVel="127" RRGroup="1" Normalized="1" NormalizedPeak="3.27702784538269"
@@ -2555,7 +2555,7 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Swell3.wav" Root="42" LoKey="42"
           HiKey="42" LoVel="0" HiVel="127" RRGroup="1" Normalized="1" NormalizedPeak="2.096685409545898"
-          Duplicate="1" SampleEnd="256223" MonolithOffset="106299392" MonolithLength="258048"
+          Duplicate="0" SampleEnd="256223" MonolithOffset="106299392" MonolithLength="258048"
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Swell3.wav" Root="43" LoKey="43"
           HiKey="43" LoVel="0" HiVel="127" RRGroup="1" Normalized="1" NormalizedPeak="2.096685409545898"
@@ -2563,6 +2563,6 @@
           SampleRate="44100.0"/>
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Swell4.wav" Root="44" LoKey="44"
           HiKey="44" LoVel="0" HiVel="127" RRGroup="1" Normalized="1" NormalizedPeak="1.857539653778076"
-          Duplicate="1" SampleEnd="257080" MonolithOffset="106815488" MonolithLength="258048"
+          Duplicate="0" SampleEnd="257080" MonolithOffset="106815488" MonolithLength="258048"
           SampleRate="44100.0"/>
 </samplemap>
