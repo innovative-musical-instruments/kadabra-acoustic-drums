@@ -321,6 +321,8 @@ const var linkKsamplers = Content.getComponent("linkKsamplers");
 const var linkKadabra = Content.getComponent("linkKadabra");
 const var linkTribalTools = Content.getComponent("linkTribalTools");
 const var linkGithub = Content.getComponent("linkGithub");
+const var linkHISE = Content.getComponent("linkHISE");
+const var linkJUCE = Content.getComponent("linkJUCE");
 
 inline function onLinkKsamplersControl(component, value)
 {
@@ -342,9 +344,22 @@ linkTribalTools.setControlCallback(onLinkTribalToolsControl);
 
 inline function onLinkGithubControl(component, value)
 {
-    if (value) Engine.openWebsite("https://github.com/innovative-musical-instruments/Kadabra-Acoustic-Drums");
+    if (value) Engine.openWebsite("https://github.com/innovative-musical-instruments/kadabra-acoustic-drums");
 }
 linkGithub.setControlCallback(onLinkGithubControl);
+
+inline function onLinkHISEControl(component, value)
+{
+    if (value) Engine.openWebsite("https://hise.dev");
+}
+linkHISE.setControlCallback(onLinkHISEControl);
+
+inline function onLinkJUCEControl(component, value)
+{
+    if (value) Engine.openWebsite("https://juce.com");
+}
+linkJUCE.setControlCallback(onLinkJUCEControl);
+
 
 // =========================================================================
 // Clip LED system — production
@@ -471,25 +486,6 @@ inline function setupSampleFolder()
 setupSampleFolder();
 
 function onNoteOn()
-{
-	
-}
-function onNoteOff()
-{
-	
-}
-function onController()
-{
-	
-}
-function onTimer()
-{
-	
-}
-function onControl(number, value)
-{
-	
-}function onNoteOn()
 {
 	
 }

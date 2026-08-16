@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<samplemap CrossfadeGamma="1.0" ID="KadabraAcousticDrums" SaveMode="1" RRGroupAmount="1.0"
+<samplemap CrossfadeGamma="1.0" ID="KadabraAcousticDrums" SaveMode="2" RRGroupAmount="1.0"
            MicPositions=";">
   <sample FileName="{PROJECT_FOLDER}KAD Samples/Kick1Vel1.wav" Root="10"
           LoKey="10" HiKey="10" LoVel="0" HiVel="31" RRGroup="1" Normalized="1"
