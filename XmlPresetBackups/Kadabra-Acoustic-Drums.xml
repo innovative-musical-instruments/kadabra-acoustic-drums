@@ -14,13 +14,14 @@
             <Control type="ScriptSlider" id="Delay Mix" value="0.0"/>
             <Control type="ScriptButton" id="delaySyncMode" value="0.0"/>
             <Control type="ScriptSlider" id="Delay Time" value="400.0"/>
-            <Control type="ScriptSlider" id="Delay Feedback" value="0.0"/>
+            <Control type="ScriptSlider" id="Delay Feedback" value="0.3799999952316284"/>
             <Control type="ScriptSlider" id="Reverb Mix" value="0.0"/>
             <Control type="ScriptSlider" id="Reverb Time" value="0.75"/>
             <Control type="ScriptSlider" id="Fliter Freq" value="20000.0"/>
             <Control type="ScriptSlider" id="Filter Res" value="1.0"/>
             <Control type="ScriptSlider" id="Phaser Depth" value="0.0"/>
             <Control type="ScriptSlider" id="Phaser Rate" value="0.0"/>
+            <Control type="ScriptSlider" id="Release" value="1.0"/>
             <Control type="ScriptButton" id="linkKsamplers" value="0.0"/>
             <Control type="ScriptButton" id="linkKadabra" value="0.0"/>
             <Control type="ScriptButton" id="linkTribalTools" value="0.0"/>
@@ -144,8 +145,8 @@
               <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
             </Processor>
             <Processor Type="Delay" ID="Delay1" Bypassed="0" DelayTimeLeft="400.0" DelayTimeRight="400.0"
-                       FeedbackLeft="0.0" FeedbackRight="0.0" LowPassFreq="20000.0"
-                       HiPassFreq="40.0" Mix="0.0" TempoSync="0.0">
+                       FeedbackLeft="0.3799999952316284" FeedbackRight="0.3799999952316284"
+                       LowPassFreq="20000.0" HiPassFreq="40.0" Mix="0.0" TempoSync="0.0">
               <ChildProcessors/>
               <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
             </Processor>
@@ -204,7 +205,7 @@
             <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
               <ChildProcessors>
                 <Processor Type="SimpleEnvelope" ID="DefaultEnvelope1" Bypassed="0" Monophonic="0.0"
-                           Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="1.805814385414124"
+                           Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="1.0"
                            LinearMode="1.0">
                   <ChildProcessors>
                     <Processor Type="ModulatorChain" ID="Attack Time Modulation" Bypassed="0"
@@ -252,15 +253,6 @@
     <macro name="Macro 7" value="0.0" midi_cc="-1"/>
     <macro name="Macro 8" value="0.0" midi_cc="-1"/>
   </macro_controls>
-  <MidiAutomation>
-    <Controller Controller="24" Channel="-1" Processor="Interface" MacroIndex="-1"
-                Start="0.0" End="1.0" FullStart="0.0" FullEnd="1.0" Skew="2.409420839653209"
-                Interval="0.01" Converter="37.nT6K8CBGgC..VEFa0U1Pu4lckIGckIG.ADPXiQWZ1UF.ADf..."
-                Attribute="Reverb Time" Inverted="0"/>
-    <Controller Controller="25" Channel="-1" Processor="Interface" MacroIndex="-1"
-                Start="0.0" End="1.0" FullStart="0.0" FullEnd="1.0" Skew="1.0"
-                Interval="0.01" Converter="37.nT6K8CBGgC..VEFa0U1Pu4lckIGckIG.ADPXiQWZ1UF.ADf..."
-                Attribute="Reverb Mix" Inverted="0"/>
-  </MidiAutomation>
+  <MidiAutomation/>
   <MPEData Enabled="0"/>
 </Processor>
